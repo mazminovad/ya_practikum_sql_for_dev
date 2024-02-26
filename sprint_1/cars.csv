@@ -1,0 +1,1001 @@
+id,auto,gasoline_consumption,price,date,person_name,phone,discount,brand_origin
+1,"Lada Vesta, grey",7.3,11243.440000000002,2019-12-15,Michael Wu,+1-587-114-0889x3149,20,Russia
+2,"BMW F80, red",8.3,63761.75,2019-01-29,Carla Smith,001-818-501-7528x0438,0,Germany
+3,"Hyundai Elantra, red",5,42584.0625,2021-08-29,Daniel Sanders,(925)028-0929x847,0,South Korea
+4,"Lada Samara, pink",7.8,9902.4,2017-02-08,Summer Diaz,325.358.2773,0,Russia
+5,"Audi S3, grey",6.9,18307.8,2020-05-12,Matthew Anderson,+1-993-672-9259,0,Germany
+6,"Tesla Model X, orange",null,71164.6,2019-02-20,Jason Davis,001-152-737-8038x4580,0,USA
+7,"Hyundai Elantra, purple",5,32153.5305,2022-12-29,Amanda Rice,+1-715-936-8028x534,9,South Korea
+8,"Tesla Model Y, red",null,53533.125,2015-07-24,Jason Richards,+1-156-925-9372,0,USA
+9,"BMW F80, blue",8.3,45032.4,2022-10-04,Tonya Rivera,328-325-5524,0,Germany
+10,"Hyundai Sonata, yellow",6,32253.604949999994,2021-05-14,Martha Parker,(497)927-8237,17,South Korea
+11,"Kia Rio, blue",3.1,21674.399999999998,2018-08-03,David Hardy,(323)544-4277x436,0,South Korea
+12,"Lada Vesta, grey",7.3,9002.7,2020-06-08,Mark Watson,178.946.2026x8549,0,Russia
+13,"Audi S3, grey",6.9,27602,2017-12-24,Elizabeth Nelson,001-105-436-3214,0,Germany
+14,"BMW F30, yellow",2,42299.932499999995,2021-08-29,Robert Lopez,+1-935-027-5245x93386,0,Germany
+15,"Audi A3, blue",5.7,26491.5,2020-12-25,Laura Mcclain,001-421-755-7001x3489,0,Germany
+16,"Porsche 911, green",12,50619.6,2020-10-09,Anthony Brown,483.824.9640,0,null
+17,"Tesla Model X, yellow",null,49587.884999999995,2015-02-16,Brandy Martin,760.637.8783,0,USA
+18,"Kia Rio, red",3.1,26753.625,2020-01-17,Jeremy Jennings,368-832-6133x334,0,South Korea
+19,"Audi A3, orange",5.7,18167.4,2015-08-09,Amanda Kelly,153-419-1305x696,0,Germany
+20,"Porsche 911, blue",12,66751.65000000001,2021-09-17,Wayne Miller,0787813258,0,null
+21,"Audi S3, purple",6.9,31642.8,2018-11-07,Lori Booth,591-205-3448x97977,0,Germany
+22,"Tesla Model X, blue",null,32188.5,2020-11-06,Jose Love,+1-927-036-4837x328,0,USA
+23,"Tesla Model 3, blue",null,53075.1,2019-05-01,Dawn Kennedy,+1-480-330-6763,0,USA
+24,"BMW F80, yellow",8.3,49078.8375,2022-02-22,Cynthia Obrien,+1-019-779-5632x69570,0,Germany
+25,"Audi A3, pink",5.7,13397.4,2020-11-26,Linda Romero,(321)142-7051,0,Germany
+26,"BMW F80, red",8.3,44556.25,2017-06-24,Brandy Sanders,001-765-258-7989x42194,0,Germany
+27,"Lada Kalina, green",6.7,11796.15,2016-05-21,Charles Martinez,7555933146,0,Russia
+28,"Lada Samara, red",7.8,18363.5,2016-11-27,Corey Moran Jr.,001-466-837-8618x684,0,Russia
+29,"BMW F30, pink",2,19449.72,2020-08-29,James Turner,2994237132,0,Germany
+30,"Tesla Model S, yellow",null,61159.87499999999,2021-07-16,Catherine Burton,001-327-862-1167x755,0,USA
+31,"Tesla Model X, grey",null,50465.1,2021-01-16,Colleen Daniels,(665)929-3526x419,0,USA
+32,"Tesla Model 3, grey",null,39951.299999999996,2016-08-24,Kathleen Vega,209-614-1984,0,USA
+33,"Hyundai Avante, red",5.5,40602.1875,2021-05-25,Nicholas Gilbert,001-522-494-0862,0,South Korea
+34,"Kia K5, yellow",4.9,37778.649999999994,2019-07-23,Mary Ramirez,(845)167-9181x4413,0,South Korea
+35,"Audi A3, blue",5.7,21506.100000000002,2021-04-03,Kathleen Kim,(898)584-4111,0,Germany
+36,"Audi S3, orange",6.9,22949.850000000002,2021-11-26,Brent Johnson,470-862-1523x4889,0,Germany
+37,"Kia K5, purple",4.9,27571.85,2016-05-01,Joshua Calderon,+1-780-333-1885x54780,0,South Korea
+38,"Audi A3, pink",5.7,17764.559999999998,2018-08-22,Wendy Fox,558.405.5322,0,Germany
+39,"Tesla Model Y, grey",null,46628.85,2016-04-18,Heather Gutierrez,0651354031,0,USA
+40,"Tesla Model Y, blue",null,32596.2,2020-11-22,George Howard,4064027070,0,USA
+41,"BMW F80, blue",8.3,38219.26,2017-02-10,Timothy Morales,594.429.6892x8784,14,Germany
+42,"Audi S3, red",6.9,40450.5,2018-12-30,Jennifer Hull,365.358.6863,0,Germany
+43,"Audi A3, grey",5.7,30530.850000000002,2021-03-10,Andrea Campbell,157-175-3822x532,0,Germany
+44,"BMW F30, yellow",2,42051.015,2020-12-10,Alex Nelson,001-547-841-7871x396,0,Germany
+45,"Hyundai Sonata, yellow",6,45822.945999999996,2019-07-23,Mrs. Chelsea Bradley,524-279-2860,5,South Korea
+46,"Hyundai Sonata, yellow",6,41668.409999999996,2021-07-12,Sophia Swanson,712.380.2704,0,South Korea
+47,"Audi RS3, green",7.5,17793.72,2021-12-25,Kaitlyn Warren,001-089-852-6135x8437,20,Germany
+48,"Hyundai Avante, grey",5.5,36734.25,2022-12-20,Michael Cabrera,(575)359-8037,0,South Korea
+49,"Porsche 911, yellow",12,63965.875,2016-02-08,Thomas Parker,802-904-6081,0,null
+50,"Audi RS3, yellow",7.5,30612.54,2022-02-22,Richard Lynn,3288883270,0,Germany
+51,"Kia K5, purple",4.9,21429.9,2015-09-02,Kayla Stewart,(863)024-9563,0,South Korea
+52,"Audi A3, orange",5.7,23651.25,2021-12-06,Rachel Jensen,484.139.0255x5940,0,Germany
+53,"Audi A3, yellow",5.7,30885.204999999998,2019-10-18,Michael Wise,311-672-1832x36644,0,Germany
+54,"Audi S3, grey",6.9,33872.4,2018-11-17,Kyle Weiss,(012)167-2299x8455,0,Germany
+55,"Audi RS3, blue",7.5,26380.9,2017-03-14,Christine Duncan,(681)984-8474,9,Germany
+56,"Audi S3, purple",6.9,26254.2,2022-06-25,Adrian Cabrera,+1-346-140-1263x511,0,Germany
+57,"BMW F80, pink",8.3,20795.94,2020-09-30,Nicholas Rivera,(812)956-6939x10235,0,Germany
+58,"Tesla Model S, blue",null,56824.799999999996,2018-08-27,Jesse Nguyen,001-820-927-9942x4949,0,USA
+59,"Tesla Model Y, orange",null,29033.640000000003,2015-06-10,Harry Rogers,248.558.7762x84673,10,USA
+60,"Audi S3, green",6.9,36095.8,2019-06-08,Regina Murphy,(120)930-5198,0,Germany
+61,"Audi A3, purple",5.7,31371.080000000005,2019-03-13,Robert Simon,(855)243-4758x37982,8,Germany
+62,"Hyundai Sonata, pink",6,19111.68,2020-01-31,Olivia Gomez,+1-390-584-8253x206,0,South Korea
+63,"BMW M3, green",9,43660.05,2022-02-05,Ashley Morgan,001-956-999-5729x5999,0,Germany
+64,"Porsche 911, pink",12,29705.4,2015-10-17,Jamie Smith,0377351461,0,null
+65,"Hyundai Avante, grey",5.5,39722.55,2021-03-03,William Anderson,(561)444-2724x4544,0,South Korea
+66,"Tesla Model X, yellow",null,41066.419499999996,2016-05-26,David Harding,(549)454-4017x153,10,USA
+67,"Lada Vesta, purple",7.3,12056.4,2015-07-03,John Riggs,(831)188-7274x27218,0,Russia
+68,"Audi S3, purple",6.9,19582.35,2016-06-01,Nathaniel Taylor,(076)030-9281,0,Germany
+69,"Kia Rio, purple",3.1,19602,2018-09-26,Jeremy Jackson,+1-929-605-2586x4438,0,South Korea
+70,"Tesla Model 3, purple",null,48416.256,2022-02-07,Keith Zhang,894-854-2603,4,USA
+71,"Lada Vesta, pink",7.3,9206.19,2021-04-30,Ryan Murphy,660.463.4566,0,Russia
+72,"Kia Rio, grey",3.1,34540.799999999996,2018-07-14,Craig Solomon,092.027.3998x826,0,South Korea
+73,"Audi S3, pink",6.9,15734.52,2015-07-17,Valerie Schneider,371-657-4706,0,Germany
+74,"Audi S3, green",6.9,27155,2017-07-19,Miss Rebecca Andrews,218.863.8739,0,Germany
+75,"Hyundai Avante, purple",5.5,40436.5,2019-11-20,Shaun Black,504-104-7464,0,South Korea
+76,"Hyundai Avante, purple",5.5,28996.2,2020-08-08,Linda Young,708.123.4276x46528,0,South Korea
+77,"Audi RS3, pink",7.5,21746.4,2019-02-17,Jason Martinez,026-894-8877,0,Germany
+78,"Lada Samara, yellow",7.8,15418.5675,2022-04-17,Nathan Schmidt,178.993.3374x846,0,Russia
+79,"BMW F30, orange",2,45687.200000000004,2019-09-11,Lisa Bailey,+1-197-766-1453x604,0,Germany
+80,"Audi S3, orange",6.9,21293.514,2015-05-27,Michele Taylor,015.173.0830x2567,14,Germany
+81,"BMW F80, green",8.3,35484.4,2016-09-23,Stephanie Johnson,(718)675-7235,0,Germany
+82,"BMW F80, blue",8.3,39633.3,2020-06-19,Kim Reed,001-144-133-8282x45561,0,Germany
+83,"Tesla Model Y, orange",null,41880.020000000004,2017-04-30,Patricia Flores,1680682456,9,USA
+84,"Tesla Model 3, red",null,54487.125,2021-04-28,Timothy Singh,(744)559-9919x3253,0,USA
+85,"Hyundai Elantra, grey",5,33188,2017-05-11,Timothy Sanders,211.846.3826x03543,0,South Korea
+86,"Lada Samara, green",7.8,18484.8,2018-12-10,Patrick Chase,947.941.0010,0,Russia
+87,"Lada Vesta, green",7.3,17760.6,2018-04-24,Philip Green,8430025527,10,Russia
+88,"Lada Kalina, red",6.7,18030.600000000002,2017-04-30,Stephen Evans,(764)785-9001x8998,19,Russia
+89,"Hyundai Elantra, purple",5,30766.5,2015-06-15,Bryan King,+1-813-546-9415,0,South Korea
+90,"Hyundai Sonata, purple",6,30872,2017-07-22,Brandon Bowman,001-114-029-1097,0,South Korea
+91,"Audi S3, grey",6.9,20074.5,2015-04-14,Kathryn Scott,(549)927-8138x46201,0,Germany
+92,"Hyundai Sonata, pink",6,14086.656,2020-06-12,Calvin Turner,701.019.4822x8406,20,South Korea
+93,"Tesla Model 3, blue",null,52102.700000000004,2019-12-30,Leslie Elliott,441-390-4094,0,USA
+94,"BMW F30, purple",2,39665.700000000004,2020-08-08,Samantha Bird,899-644-4374x7257,0,Germany
+95,"Tesla Model S, orange",null,40941.2,2016-08-20,Jason Fowler,+1-341-983-4826x767,0,USA
+96,"Lada Kalina, pink",6.7,8286.6,2017-07-05,Paula Fisher,001-609-580-8217x56708,0,Russia
+97,"Hyundai Avante, green",5.5,35047.4,2016-12-08,Sydney Williams,001-995-344-5047x211,0,South Korea
+98,"Tesla Model 3, grey",null,46847,2017-11-25,Anita Gonzalez,476-726-0356x12377,0,USA
+99,"BMW F80, red",8.3,61294.5,2018-05-25,Zachary Montes,522-439-9284,0,Germany
+100,"Tesla Model 3, yellow",null,44248.549999999996,2017-10-05,Jorge Carter,001-630-386-5785x182,0,USA
+101,"Lada Samara, orange",7.8,13465.2,2022-04-13,Erica Miller,+1-833-434-5196x888,0,Russia
+102,"Lada Vesta, pink",7.3,9273.33,2016-09-21,Melissa Bowman,+1-712-457-5802x75613,0,Russia
+103,"Tesla Model X, red",null,69207.125,2019-07-01,Melissa Sanders,5230792435,0,USA
+104,"Kia K5, pink",4.9,9889.0308,2015-09-10,Melissa Bond,745-013-8470x145,1,South Korea
+105,"Tesla Model X, orange",null,33976.8,2020-01-14,Nicole Smith,791.276.4541x02684,0,USA
+106,"Audi RS3, red",7.5,26925.412500000002,2015-02-03,Charles Graves,001-088-803-3579x277,10,Germany
+107,"Lada Samara, blue",7.8,14200.2,2015-09-05,Gwendolyn Wilcox,237-839-5484x9255,0,Russia
+108,"Kia K5, green",4.9,23868,2020-02-05,Michelle Delgado,634-513-8386x21210,0,South Korea
+109,"Kia Rio, blue",3.1,24199.2,2018-08-08,Edward Richardson II,492-303-2433x565,0,South Korea
+110,"Audi A3, grey",5.7,22500,2015-02-22,Ronald Johnson,(979)008-6826,0,Germany
+111,"Hyundai Avante, pink",5.5,18913.2,2017-02-07,Danielle Deleon,001-134-455-3344x0382,0,South Korea
+112,"BMW F80, yellow",8.3,33046.492,2017-03-24,Bryan Frank,(226)770-4050,18,Germany
+113,"Lada Samara, green",7.8,9811.9035,2021-09-30,Victoria Mcbride,190-072-1459x1749,13,Russia
+114,"Lada Kalina, blue",6.7,10660.5,2020-06-14,Pamela Soto,245-206-9000x08016,0,Russia
+115,"Lada Kalina, grey",6.7,13252.8,2018-11-02,Victoria Henderson,9179242576,0,Russia
+116,"Hyundai Avante, purple",5.5,36687.6,2018-04-13,Kayla House,344-023-0069,0,South Korea
+117,"Audi S3, orange",6.9,24155.712,2022-06-01,Timothy Brooks,904.593.3302x646,4,Germany
+118,"BMW M3, green",9,41066.55,2022-08-04,Jessica Bowman,206-528-7673,0,Germany
+119,"Tesla Model Y, pink",null,31169.25,2021-08-06,Louis Jones,995.789.1846x77768,0,USA
+120,"Tesla Model Y, grey",null,47342.1,2019-02-04,Ariel Parker,391-667-3026,0,USA
+121,"Hyundai Elantra, red",5,54271.75,2019-01-22,Stephen Jones,+1-753-919-0537x5540,0,South Korea
+122,"Hyundai Elantra, green",5,31281,2017-11-17,Sharon Leonard,951.521.2183,0,South Korea
+123,"Kia Rio, pink",3.1,14872.68,2015-04-06,Shannon Sullivan,704-771-4380x8535,6,South Korea
+124,"Tesla Model X, red",null,48489.75,2020-12-27,Isaiah Burns,377.595.0256,0,USA
+125,"Audi S3, purple",6.9,22515,2017-01-12,Michael Rose,+1-179-998-7001x01695,0,Germany
+126,"Lada Samara, green",7.8,12998.517,2021-05-16,Daniel Avila,(611)852-2470x973,18,Russia
+127,"Lada Vesta, orange",7.3,17460.3,2019-12-11,Robert Jones,+1-380-496-0172x7154,0,Russia
+128,"BMW F30, yellow",2,60703.439999999995,2018-05-24,Lawrence Castillo,+1-576-565-6979x413,0,Germany
+129,"Kia Rio, grey",3.1,23074.2,2015-04-22,Susan Salinas,(816)136-8844x44633,0,South Korea
+130,"Tesla Model X, grey",null,41164.200000000004,2022-04-13,Gloria Khan,689.400.4036x9539,0,USA
+131,"Kia Rio, pink",3.1,14342.4,2015-12-24,Andrea Barnett,001-186-133-0922x1654,0,South Korea
+132,"Tesla Model 3, green",null,41693.4,2021-10-14,Christopher Anderson,034-604-7022,0,USA
+133,"Tesla Model 3, red",null,64530.70000000001,2019-08-24,Andrea Edwards,341-318-0358,20,USA
+134,"Tesla Model Y, purple",null,55904.4,2018-05-28,Lori Haynes,562-532-0909,0,USA
+135,"Tesla Model X, grey",null,47371.2,2018-06-30,Barbara Norton,001-440-645-0571,0,USA
+136,"Kia Rio, green",3.1,25609.149999999998,2016-07-16,Brian Snyder,+1-056-160-4776,0,South Korea
+137,"Lada Kalina, blue",6.7,13803.6,2018-07-10,Tracy Terry,(413)037-0635x463,0,Russia
+138,"BMW F80, blue",8.3,54672.8,2019-08-29,Alexa Solis,5160234225,0,Germany
+139,"Hyundai Elantra, purple",5,32933.700000000004,2015-08-08,Carrie Wagner,164-023-1839,0,South Korea
+140,"Lada Kalina, red",6.7,13987.2,2017-07-31,Jennifer Cross,(110)864-0140x4372,7,Russia
+141,"Tesla Model S, blue",null,34355.700000000004,2020-08-20,Brittany Wilson,056-862-4857x72266,0,USA
+142,"Lada Samara, pink",7.8,7991.616599999999,2015-06-08,Stephen Murray,(052)408-7837x5336,3,Russia
+143,"Porsche 911, pink",12,33583.14,2020-01-16,Tara Davis,005.580.5827,0,null
+144,"Hyundai Avante, green",5.5,36837.15,2021-04-01,Kenneth Ramirez,+1-060-645-2717,0,South Korea
+145,"BMW F80, pink",8.3,25538.435999999998,2017-04-30,Cynthia Brown,303.588.0793,1,Germany
+146,"BMW F80, orange",8.3,31780.8,2020-01-27,Kevin Davidson,001-603-899-5708,0,Germany
+147,"Lada Kalina, green",6.7,10377.9,2020-01-17,David Dyer,404-440-2194,0,Russia
+148,"Tesla Model Y, blue",null,44757.35,2016-06-08,Stacy Smith,6320804303,0,USA
+149,"Hyundai Sonata, grey",6,40166.4,2018-12-07,Katherine Levy,(773)602-1363x459,0,South Korea
+150,"BMW F30, yellow",2,43563.149999999994,2020-06-13,Amanda Young,037-001-9765x6148,0,Germany
+151,"Audi S3, pink",6.9,13225.679999999998,2020-12-12,Jamie Mitchell,894.703.5500,0,Germany
+152,"Audi S3, green",6.9,23542.158999999996,2016-04-07,Jeff Martinez,167.339.4775x157,6,Germany
+153,"Kia K5, purple",4.9,19211.850000000002,2021-12-21,David Fischer,408-584-1213x772,0,South Korea
+154,"Hyundai Sonata, red",6,40069.8125,2016-05-14,Manuel Fletcher,095-212-3756,0,South Korea
+155,"Tesla Model X, red",null,70617,2018-02-28,Debbie Buckley,001-572-832-2515x7751,0,USA
+156,"Audi A3, orange",5.7,32925.6,2018-03-25,Heather Vasquez,+1-649-204-5250,0,Germany
+157,"Hyundai Elantra, purple",5,38134.836,2018-08-23,Sara Nelson,011.926.7563,7,South Korea
+158,"Lada Samara, pink",7.8,6198.599999999999,2017-07-04,Frank Wilson,001-140-273-2321,0,Russia
+159,"Audi A3, blue",5.7,28213.1,2016-01-07,Eric Anderson,001-905-426-5375x3642,0,Germany
+160,"Tesla Model 3, red",null,43499.205,2020-06-26,Beverly Dorsey,590.209.8463,6,USA
+161,"Audi A3, yellow",5.7,29768.497499999998,2022-09-03,Lori Miller,653.718.7726x027,0,Germany
+162,"Kia Rio, purple",3.1,24188.899999999998,2016-02-21,Trevor Rodriguez,983.246.4662x723,0,South Korea
+163,"Lada Vesta, orange",7.3,17296,2017-06-05,Richard Krueger,919.520.0462x985,0,Russia
+164,"Tesla Model 3, green",null,59469.8,2019-06-02,Michael Nelson,624.944.8046x48505,0,USA
+165,"Audi S3, orange",6.9,19146.8025,2021-12-08,Michael Snow,861.199.5367x5618,15,Germany
+166,"Kia Rio, yellow",3.1,24135.951599999997,2018-03-31,Natalie Morrison,+1-267-465-7967x6588,14,South Korea
+167,"Audi A3, blue",5.7,34069.1,2019-01-08,Joshua Adams,090.949.8475x11669,0,Germany
+168,"Tesla Model 3, green",null,36261.9,2015-12-31,Andrea Harrison,(235)878-0683x600,0,USA
+169,"Lada Vesta, green",7.3,14359.800000000001,2022-07-14,Michelle Stephens,329-108-7657x748,0,Russia
+170,"Tesla Model S, red",null,46625.625,2020-02-16,Kevin Orr,060.187.3588,0,USA
+171,"Lada Vesta, pink",7.3,10730.159999999998,2018-11-25,Michelle Moran,(345)141-5901,0,Russia
+172,"Hyundai Sonata, green",6,31739.4,2021-08-13,James Moody,001-447-941-6825,0,South Korea
+173,"Kia Rio, grey",3.1,16708.6,2016-09-05,Stephen Baker,(732)914-2250,0,South Korea
+174,"Tesla Model S, pink",null,23362.2,2017-06-01,Ricky Martin,890-128-8543x727,0,USA
+175,"Tesla Model Y, pink",null,30541.739999999994,2016-10-17,Carol Henry,001-357-498-2819,0,USA
+176,"BMW F30, orange",2,33724.8,2015-06-07,Jennifer Shea,159.199.6709x382,0,Germany
+177,"Audi S3, yellow",6.9,32354.234549999997,2016-11-11,Terry Kelly,7869424675,1,Germany
+178,"Audi A3, pink",5.7,14920.199999999999,2017-10-19,Joseph White,642.395.4480,0,Germany
+179,"Hyundai Avante, purple",5.5,28247.4,2015-09-12,Richard Proctor,543.851.2718x266,0,South Korea
+180,"BMW F30, yellow",2,47478.927599999995,2019-12-29,Brian Pittman,+1-430-916-1779x97096,13,Germany
+181,"Tesla Model S, yellow",null,60433.649999999994,2017-11-15,Mrs. Gloria Zimmerman,5617079111,0,USA
+182,"Porsche 911, green",12,72816.90000000001,2019-06-15,Debra Mcmahon,+1-290-976-5892x58091,0,null
+183,"Lada Samara, yellow",7.8,25064.939999999995,2018-09-21,Amanda Osborn,(528)339-7529x94947,0,Russia
+184,"Audi A3, purple",5.7,24447.15,2022-10-13,Jasmine Williams,802-056-3689x00722,0,Germany
+185,"Tesla Model 3, green",null,41177.700000000004,2020-02-06,Julie Hudson,153.249.3194x68267,0,USA
+186,"Tesla Model Y, yellow",null,46851.344999999994,2015-02-05,Brian Bryant,001-837-023-7358x72485,0,USA
+187,"Lada Kalina, purple",6.7,16540.992,2018-06-24,Joshua Rogers,532.486.1236,6,Russia
+188,"Hyundai Avante, purple",5.5,32659.2,2020-03-04,Isaiah Edwards,368.252.8261x29697,0,South Korea
+189,"Hyundai Avante, grey",5.5,35262,2017-01-23,Becky Peterson,263.234.9128,0,South Korea
+190,"Tesla Model X, pink",null,23577.12,2022-04-22,Ashley Hood MD,860-499-2995x927,0,USA
+191,"Hyundai Sonata, red",6,54719.762500000004,2019-07-10,Heidi Brown,(955)724-1247x1967,5,South Korea
+192,"BMW F80, yellow",8.3,40084.917499999996,2016-08-01,Sabrina Myers,+1-345-655-9171x73415,0,Germany
+193,"BMW F30, yellow",2,46349.887500000004,2021-03-17,Christine Dennis,5435685505,0,Germany
+194,"Hyundai Elantra, red",5,52467,2018-10-01,Vanessa Hernandez,001-819-184-2782x0663,0,South Korea
+195,"Lada Kalina, yellow",6.7,13896.945,2015-06-14,Michael Jimenez,412-076-4083x538,0,Russia
+196,"Audi A3, green",5.7,28936.8,2018-01-11,Beth Anderson,070.591.5838,0,Germany
+197,"Tesla Model Y, yellow",null,56017.93749999999,2016-07-13,Evelyn Nichols,(062)654-2310x152,0,USA
+198,"BMW F80, blue",8.3,43485,2017-07-09,John Wade,(294)721-0368x6203,0,Germany
+199,"Tesla Model X, grey",null,51299.118,2019-11-15,Ryan Anderson,448-027-9336x6087,18,USA
+200,"Porsche 911, blue",12,73944,2018-10-31,Thomas West,001-615-442-1692x4833,0,null
+201,"Tesla Model 3, orange",null,59984.399999999994,2018-03-20,John Bennett,(759)708-8202x8800,0,USA
+202,"Tesla Model Y, purple",null,34135.200000000004,2015-02-07,Christopher Bowman,001-248-843-2248x839,0,USA
+203,"Audi S3, blue",6.9,19837.566,2021-05-14,John Park,001-635-353-9789,13,Germany
+204,"Audi RS3, red",7.5,28415,2017-03-09,Karen Nolan,(854)773-2728,0,Germany
+205,"Hyundai Elantra, red",5,40661.25,2022-04-06,Andrew Ellis,4259460574,0,South Korea
+206,"Lada Vesta, purple",7.3,18150,2017-08-07,Larry Delgado,+1-791-344-5415x053,0,Russia
+207,"Hyundai Elantra, yellow",5,37693.665,2020-11-26,Tony Gross,729-531-3808x2597,0,South Korea
+208,"BMW F30, purple",2,36092,2017-06-25,James Jones,036.114.3587,0,Germany
+209,"Audi S3, orange",6.9,26094,2017-08-30,Melissa Alexander,026.515.5714x551,0,Germany
+210,"BMW M3, red",9,40459.5,2020-03-29,Amy Wilson,374-691-6103x37731,0,Germany
+211,"Kia Rio, orange",3.1,21897.5,2016-09-30,Brenda Jenkins,213-417-3280x690,0,South Korea
+212,"BMW F30, purple",2,39576.6,2021-10-15,Albert Harris,+1-831-687-1400x5066,0,Germany
+213,"Tesla Model 3, blue",null,49202.4,2019-09-01,Christian Blair,+1-776-463-0469x5105,0,USA
+214,"BMW F30, yellow",2,61861.605,2019-01-03,April Harris,001-440-839-9525x672,0,Germany
+215,"Audi A3, yellow",5.7,30510.765,2020-03-03,Diane Griffin,005.331.4694x1728,0,Germany
+216,"BMW M3, grey",9,44232,2018-10-17,Kristin Williams,039.322.8157x23148,0,Germany
+217,"Kia K5, yellow",4.9,20063.475000000002,2020-08-24,Brianna Thompson,393-288-3902,0,South Korea
+218,"Hyundai Elantra, grey",5,43231.2,2018-04-14,Ryan Patterson,001-212-813-8961,0,South Korea
+219,"Kia Rio, red",3.1,22501.125,2020-06-09,Jason Garcia,280.328.7742x31667,0,South Korea
+220,"Hyundai Elantra, yellow",5,41093.64,2022-07-29,Darlene Hardy,157.858.4204x212,0,South Korea
+221,"BMW F30, orange",2,33273.407999999996,2016-02-20,Jason Carter,(237)257-4750,4,Germany
+222,"Porsche 911, purple",12,58553.1,2020-02-29,Benjamin Ballard,227.646.1834x05871,0,null
+223,"Tesla Model X, yellow",null,52629.98,2019-03-18,Jessica Lane,001-654-577-3286x6019,0,USA
+224,"Audi S3, purple",6.9,26195.3,2016-03-17,Kevin White,7488406692,0,Germany
+225,"Kia K5, red",4.9,38456.25,2022-12-25,Deborah Taylor,205-629-4689x3448,0,South Korea
+226,"Lada Kalina, orange",6.7,19553.3,2019-09-09,Curtis Moore,434-165-1484x5943,0,Russia
+227,"Audi A3, green",5.7,28910,2017-08-22,Matthew Marshall,411.642.5839,0,Germany
+228,"Audi S3, green",6.9,27165.6,2018-06-18,Barbara Taylor,(271)153-9391x201,0,Germany
+229,"BMW F80, green",8.3,48421.2,2018-07-04,William Hess,113.620.2479x089,0,Germany
+230,"Audi A3, green",5.7,22959,2015-03-13,Brian Ellis,551.402.2949,0,Germany
+231,"BMW F80, red",8.3,56050,2017-01-12,Tammy Anderson,+1-280-659-2376x204,0,Germany
+232,"Lada Kalina, red",6.7,12164.625,2020-03-13,Teresa Atkins,(923)219-5650,0,Russia
+233,"Audi A3, pink",5.7,16014.78,2020-03-06,Robert Morris,950.399.8815,0,Germany
+234,"Audi A3, orange",5.7,24219.639,2020-09-26,Matthew King,(156)827-9538x30244,3,Germany
+235,"Audi S3, orange",6.9,29955.45,2021-01-30,Tonya Brown,+1-507-456-2412x1372,0,Germany
+236,"Tesla Model X, pink",null,26279.100000000002,2020-01-17,Danny Bentley,176.089.5234x076,0,USA
+237,"Hyundai Elantra, blue",5,29762.100000000002,2015-02-10,Terri Green,(712)683-5906,0,South Korea
+238,"Audi RS3, green",7.5,21299.88,2017-05-16,Lori Taylor,746-503-6046x980,16,Germany
+239,"Tesla Model X, green",null,34217.1,2016-08-02,Ronald Holmes,516-287-1154,0,USA
+240,"BMW M3, yellow",9,47080.195,2016-02-13,Megan Perkins,142.816.1617,0,Germany
+241,"Kia K5, purple",4.9,13770.834,2022-06-08,James Serrano,216.767.2189x02394,18,South Korea
+242,"Tesla Model X, red",null,42819.3,2020-03-23,Amanda Fernandez,(980)920-5185x22845,20,USA
+243,"Hyundai Sonata, green",6,28227.600000000002,2020-04-25,Stephen Welch,001-743-661-3624x035,0,South Korea
+244,"Tesla Model S, purple",null,60892.799999999996,2018-09-20,Robert Diaz,001-484-277-6730x59533,0,USA
+245,"Hyundai Avante, yellow",5.5,55631.939999999995,2019-05-12,Alisha Hale,(500)182-9740x881,0,South Korea
+246,"Tesla Model X, orange",null,47511.9,2015-05-31,Alyssa Mercado,(806)367-6802x8655,0,USA
+247,"Kia K5, orange",4.9,20779,2017-05-19,Amber Baldwin,001-438-479-3448x01877,0,South Korea
+248,"Kia Rio, yellow",3.1,30812.87,2016-07-08,Walter Johnson,001-483-898-3655x7155,0,South Korea
+249,"Tesla Model Y, red",null,59910.5625,2016-04-10,April Todd,648.683.5354,0,USA
+250,"Lada Kalina, grey",6.7,14155.648,2019-01-10,Paula Richards,3591879201,6,Russia
+251,"Kia Rio, yellow",3.1,23617.4925,2021-05-31,Eric Ross,933.430.3361,0,South Korea
+252,"Tesla Model 3, red",null,52978.5,2020-04-02,Austin Howard,813-723-6938,0,USA
+253,"Lada Kalina, yellow",6.7,11670.199999999999,2017-01-05,Laurie Mcdonald,300.792.6860x464,0,Russia
+254,"BMW F80, orange",8.3,33806.2725,2016-08-28,Robert Gilmore,+1-197-057-4716x7925,1,Germany
+255,"Porsche 911, blue",12,52936.200000000004,2020-02-12,Richard Sharp,420.989.3490x601,0,null
+256,"Porsche 911, grey",12,66965.47200000001,2021-10-21,Amanda Hatfield,(795)189-6665x4226,4,null
+257,"Lada Kalina, yellow",6.7,13672.5225,2021-07-19,Adam Friedman,+1-273-180-0538x2014,0,Russia
+258,"Kia Rio, yellow",3.1,27863.062499999996,2021-01-16,Brian Avila,(631)282-7649x54540,0,South Korea
+259,"BMW F80, purple",8.3,43603,2017-10-01,William Aguilar,4114130190,0,Germany
+260,"Audi S3, orange",6.9,21052.8,2015-08-09,Makayla Sanchez,182.835.2124x443,14,Germany
+261,"Hyundai Elantra, orange",5,33804.9,2020-03-20,Michelle Cabrera,(678)382-7195x11724,0,South Korea
+262,"Tesla Model 3, orange",null,43236,2020-05-12,Michael Schmidt,966-745-8339x4931,0,USA
+263,"Hyundai Sonata, red",6,36597.375,2020-01-31,Dana Turner,991-960-8008x078,0,South Korea
+264,"Tesla Model 3, blue",null,66041.3,2019-11-14,Laura Mcmahon,+1-176-092-2870x98817,0,USA
+265,"Hyundai Elantra, grey",5,34700.4,2022-10-01,Eric Gibson,(992)714-3532x32222,0,South Korea
+266,"Hyundai Sonata, grey",6,30502.6,2016-01-11,Lauren Hart,(176)649-6042,0,South Korea
+267,"Tesla Model Y, yellow",null,48902.715,2020-09-04,Samuel Walker,707.543.2997x949,0,USA
+268,"Audi A3, blue",5.7,22154.4,2015-06-09,Alexander Le,824.853.7229,0,Germany
+269,"Porsche 911, green",12,67813.04250000001,2021-09-09,Alicia Mejia,0903720006,7,null
+270,"Tesla Model X, red",null,45309.375,2015-07-09,Jason Baker,681.137.9667x6248,0,USA
+271,"Hyundai Elantra, red",5,39182.625,2020-10-14,Ashley Barrett,+1-343-433-7100x74487,0,South Korea
+272,"Lada Vesta, yellow",7.3,16370.0775,2022-11-01,Jennifer Rodriguez,443.689.4715,0,Russia
+273,"Tesla Model 3, pink",null,25866.54,2020-03-01,Donald Carr,017-366-7764,0,USA
+274,"Porsche 911, purple",12,67317.59999999999,2018-11-13,Paul Townsend,(117)468-7280,0,null
+275,"Hyundai Elantra, blue",5,24873.912,2015-11-29,Andrea Butler,001-817-536-3509x1460,16,South Korea
+276,"Tesla Model X, pink",null,28408.59,2021-04-13,Steven Gallegos,(975)831-5335x64641,0,USA
+277,"Kia K5, blue",4.9,24567.3,2015-01-15,John Duran,911-840-5753,0,South Korea
+278,"Tesla Model Y, purple",null,46740.200000000004,2019-05-13,David Walsh,(985)249-4150x174,0,USA
+279,"Kia K5, purple",4.9,17678.850000000002,2021-02-17,Michele Hopkins,567.326.6125x90793,0,South Korea
+280,"Lada Samara, grey",7.8,15910.8,2018-12-15,Andrew Reilly,001-824-734-5630x53985,0,Russia
+281,"Lada Kalina, purple",6.7,15084.9,2020-04-06,Sean Fritz,330-035-9564x4120,0,Russia
+282,"Tesla Model X, yellow",null,39406.59,2015-02-01,Kylie Matthews,287.069.6560x4989,0,USA
+283,"Tesla Model S, orange",null,55923,2021-08-26,Andrea Adkins,+1-155-620-0918x19172,0,USA
+284,"Porsche 911, red",12,64037.25,2015-10-14,Melanie Neal,525.065.6744,0,null
+285,"BMW F80, pink",8.3,22052.217599999996,2015-08-14,Jason Berger,390-465-5867x1991,4,Germany
+286,"Tesla Model X, pink",null,22339.8,2022-02-14,Cody Werner,(793)422-8301x530,0,USA
+287,"Lada Samara, green",7.8,11006.396,2016-07-04,Dominic Perez,598.360.1152,3,Russia
+288,"Lada Vesta, grey",7.3,16244.550000000001,2022-02-27,Stephanie Smith,+1-200-436-6125x5876,0,Russia
+289,"Hyundai Elantra, purple",5,30987,2017-02-03,Kristen Klein,796-613-8018x2887,0,South Korea
+290,"BMW F30, grey",2,39346.65,2021-02-19,Patrick Simmons,+1-662-322-3318,0,Germany
+291,"Hyundai Elantra, grey",5,33522,2017-04-23,Stefanie Carey,635-050-9787x133,0,South Korea
+292,"Hyundai Elantra, red",5,60255,2019-05-28,Peter Gutierrez,850-414-9873,0,South Korea
+293,"Lada Samara, red",7.8,16900.5,2016-12-23,Jonathan Smith,(288)944-9103,0,Russia
+294,"Kia Rio, red",3.1,21107.5,2017-03-16,Tammie Williams,+1-832-987-3155,0,South Korea
+295,"Kia K5, pink",4.9,14335.92,2018-11-27,John Robinson,0792831907,0,South Korea
+296,"Audi RS3, yellow",7.5,32367.0375,2021-06-16,Jessica Winters,022-554-6624x70789,0,Germany
+297,"Kia K5, red",4.9,29902.5,2020-03-06,Raymond Myers,+1-684-260-4132,0,South Korea
+298,"Lada Kalina, orange",6.7,11693,2017-04-05,Laura Castro,7270957256,0,Russia
+299,"Tesla Model S, blue",null,47729.85,2021-06-24,Christopher Cohen,695-456-1503x84690,0,USA
+300,"Audi S3, pink",6.9,13066.92,2015-08-03,Jacqueline Schaefer,335-714-9698x387,0,Germany
+301,"BMW F80, grey",8.3,48906,2018-08-30,Denise Rodriguez,(113)300-5125,0,Germany
+302,"Lada Vesta, yellow",7.3,19084.019999999997,2018-04-27,Andrew Williams,001-166-301-9372,0,Russia
+303,"Audi S3, purple",6.9,26373.899999999998,2016-04-30,Michael Coleman,+1-906-057-7480x3121,0,Germany
+304,"Audi RS3, grey",7.5,21164.1,2016-08-24,Levi Duarte,201.737.5623x346,0,Germany
+305,"Tesla Model Y, grey",null,32201.100000000002,2015-01-06,Bruce Brewer,+1-536-500-1271x0268,0,USA
+306,"Kia K5, orange",4.9,27791.4,2022-12-06,Blake Turner,+1-246-612-7664x717,0,South Korea
+307,"BMW F80, purple",8.3,37789.5,2022-03-31,Elizabeth Coleman,(263)401-7163,0,Germany
+308,"Lada Kalina, pink",6.7,12109.5,2019-06-23,Dr. Maria Gross MD,(066)459-7661,0,Russia
+309,"Lada Vesta, yellow",7.3,13091.714999999998,2020-12-04,Laura Smith,446-395-7727x2814,0,Russia
+310,"Tesla Model S, green",null,39777.15,2022-10-11,James Young,624-626-3975,0,USA
+311,"Hyundai Sonata, orange",6,32231.850000000002,2022-12-22,Heidi Dixon,(492)795-9598x79354,0,South Korea
+312,"BMW F30, pink",2,23774.94,2021-05-26,Elizabeth Hunter,3893327402,0,Germany
+313,"BMW M3, yellow",9,53441.765,2019-10-26,Alexis Ward,001-125-313-4416x814,0,Germany
+314,"Tesla Model X, blue",null,35853.95,2016-04-06,Eduardo Marshall,4836563484,0,USA
+315,"Tesla Model X, yellow",null,54110.95,2017-08-22,Katie Lee,+1-545-138-6106,0,USA
+316,"Hyundai Avante, purple",5.5,28961.100000000002,2015-11-21,Evan Terry,(152)240-2269x1844,0,South Korea
+317,"BMW F80, pink",8.3,25012.17,2016-01-30,Ashley Mccarthy,+1-761-269-6810x006,0,Germany
+318,"BMW F80, red",8.3,48843.0625,2016-02-14,Jennifer Moses,+1-073-539-0843x4212,0,Germany
+319,"Kia Rio, green",3.1,26966.100000000002,2022-06-22,Zachary Robinson,(778)496-9499,0,South Korea
+320,"Lada Samara, pink",7.8,9213.48,2015-01-02,Joshua Sheppard,722-446-4112x5032,0,Russia
+321,"BMW F80, green",8.3,39146.65,2016-08-24,Alice Martinez,976-784-5294,0,Germany
+322,"Lada Vesta, pink",7.3,9765.359999999999,2018-12-09,Jennifer Bell,+1-816-519-9933,0,Russia
+323,"Tesla Model S, orange",null,42392.700000000004,2020-04-06,Russell Randall,001-520-737-9728,0,USA
+324,"Hyundai Sonata, green",6,33367.799999999996,2016-01-31,Paul Perry,857-537-9513,0,South Korea
+325,"Hyundai Avante, yellow",5.5,38803.185,2020-09-28,Stephanie Todd,195-913-8171,0,South Korea
+326,"BMW F30, grey",2,46590.700000000004,2019-01-01,Allison Martinez,+1-196-422-1350x76677,0,Germany
+327,"Hyundai Sonata, pink",6,18461.399999999998,2017-05-19,Kimberly Conner,+1-442-966-0216,0,South Korea
+328,"Kia K5, red",4.9,41028,2018-08-19,Tracy Knight,(535)623-2065,0,South Korea
+329,"Audi A3, green",5.7,17635.176,2020-02-06,Derrick Leach Jr.,880.007.4795x63429,17,Germany
+330,"BMW F80, orange",8.3,33668.1,2020-02-24,Joshua Osborne,+1-157-561-9038,0,Germany
+331,"Tesla Model 3, green",null,44295.3,2015-08-26,Robert Powell,+1-787-397-0902x667,0,USA
+332,"BMW M3, yellow",9,43596.2125,2016-05-21,Melissa Smith,001-925-819-6071,0,Germany
+333,"Lada Kalina, green",6.7,16056.9,2015-07-29,Jordan Goodwin,000.425.0592x422,0,Russia
+334,"Hyundai Elantra, red",5,39587.5,2017-07-16,Kimberly Velasquez,(559)398-7210x115,0,South Korea
+335,"Tesla Model Y, grey",null,39833.1,2020-08-11,Terry Zamora,453-256-3640x200,0,USA
+336,"Audi S3, yellow",6.9,28480.094999999998,2022-07-16,Kathryn Merritt,(760)879-6277x285,0,Germany
+337,"Porsche 911, purple",12,61963.65,2021-05-18,Jessica Jacobs,730.996.7208x069,0,null
+338,"Hyundai Sonata, grey",6,28690,2016-01-11,Robert Johnson,(529)289-2317x21905,0,South Korea
+339,"Audi RS3, purple",7.5,23082,2017-01-30,Taylor Vasquez,+1-251-628-7053x24301,0,Germany
+340,"Porsche 911, orange",12,52180.439999999995,2017-06-18,Brian Brown,(050)559-0230x4412,17,null
+341,"Audi A3, orange",5.7,20309.584499999997,2016-05-31,Donald Reed,7701301745,13,Germany
+342,"Kia K5, blue",4.9,29696.399999999998,2018-11-23,Amanda Wells,355-469-2420,0,South Korea
+343,"Audi A3, yellow",5.7,20573.807625,2022-12-26,Stephanie Henry,001-649-961-7278x752,19,Germany
+344,"BMW F30, purple",2,45691.668,2018-05-05,Tiffany Turner,001-492-053-7370,1,Germany
+345,"BMW F30, purple",2,32465.7,2015-12-01,Brooke Haley,939.624.6097x9465,0,Germany
+346,"Hyundai Sonata, grey",6,37968.761999999995,2019-05-08,Gregory Marshall,(009)018-6815x97366,6,South Korea
+347,"Tesla Model X, red",null,43560.5625,2020-01-03,Douglas Meyer,001-334-552-2874x5730,9,USA
+348,"Kia K5, red",4.9,18069.75,2020-07-26,Steven Brennan,300-764-0167x71023,0,South Korea
+349,"Lada Vesta, yellow",7.3,11092.693,2017-04-28,Linda Johnston,(357)448-4598x28013,11,Russia
+350,"Audi A3, pink",5.7,18865.119,2019-03-26,Victoria Martinez,(371)654-2055,5,Germany
+351,"Porsche 911, yellow",12,92512.095,2019-09-14,Adam Nicholson,(422)564-8666x2419,0,null
+352,"Tesla Model X, grey",null,56101.2,2018-06-09,Lauren Rhodes,856-651-2527x398,0,USA
+353,"Porsche 911, purple",12,58753.479999999996,2017-10-21,Katie Clements,9038775262,14,null
+354,"Tesla Model S, purple",null,50323.2,2018-09-23,Audrey Nguyen,193-848-5961,0,USA
+355,"Tesla Model 3, orange",null,48702,2018-06-24,Bryan Jackson,010.076.3432x82458,0,USA
+356,"Audi RS3, yellow",7.5,35222.775,2021-12-11,Mrs. Mary Adams,9340732310,0,Germany
+357,"Tesla Model Y, red",null,55121.0625,2021-02-17,Craig Johnson,+1-758-157-4521,0,USA
+358,"Tesla Model Y, pink",null,32785.83,2022-12-17,Mathew Hernandez,743-864-1764x4505,0,USA
+359,"Audi S3, purple",6.9,19005.3,2020-09-14,John Mcdonald,016.131.4028x810,0,Germany
+360,"Tesla Model 3, red",null,58845.9375,2021-05-09,Jessica Walker,548.155.3005x055,0,USA
+361,"Audi A3, blue",5.7,24202.199999999997,2016-02-16,Rhonda Sanders,323-873-6647x667,0,Germany
+362,"BMW F80, grey",8.3,45008.25,2021-01-14,Joseph Ramirez,(003)136-6011x717,0,Germany
+363,"BMW F30, green",2,49092,2018-11-02,Cassidy Robinson,677.082.6416,0,Germany
+364,"Lada Kalina, orange",6.7,21465.600000000002,2019-02-15,Micheal Walsh,+1-555-852-9775x76153,0,Russia
+365,"Lada Kalina, red",6.7,15115.5,2018-02-04,Keith Lee,784.987.2403x34284,0,Russia
+366,"Tesla Model 3, red",null,65403,2018-06-30,Rhonda Casey,237.250.3420,0,USA
+367,"Tesla Model 3, pink",null,24364.26,2020-03-18,Christy Haas DVM,105-730-7169,0,USA
+368,"Audi A3, pink",5.7,16376.1,2019-07-27,Jennifer Murray,872-885-9607x65508,0,Germany
+369,"Porsche 911, pink",12,36197.28,2016-06-23,Ryan Henderson,012.766.0586x939,0,null
+370,"Porsche 911, orange",12,71855.7,2021-03-02,Richard Williams,3131137386,0,null
+371,"Tesla Model X, purple",null,40499.1,2015-11-09,Renee Farrell,7427338252,0,USA
+372,"BMW F80, orange",8.3,37948.5,2020-07-21,Vanessa Vasquez,001-456-643-1616,0,Germany
+373,"Kia K5, purple",4.9,25944.45,2021-02-17,Alyssa Holt,468.023.1396x986,0,South Korea
+374,"Tesla Model Y, grey",null,41452.200000000004,2015-03-16,James Fields,(991)583-1299x899,0,USA
+375,"Tesla Model S, yellow",null,51533.799999999996,2017-06-02,George Wright,001-380-052-0727x54571,0,USA
+376,"Lada Vesta, grey",7.3,21180,2018-04-12,Jennifer Sloan,462-171-9846x846,0,Russia
+377,"Audi RS3, pink",7.5,18831.329999999998,2022-11-15,Steven Lamb,562-910-5479x43338,0,Germany
+378,"Audi A3, green",5.7,22394.4,2022-05-04,David Booker,8585131749,0,Germany
+379,"Tesla Model S, yellow",null,60272.362499999996,2022-10-07,Stephanie Weber,+1-725-809-6280x14377,0,USA
+380,"BMW F80, red",8.3,72666.75,2019-10-06,Michael Holmes,007-204-3680,0,Germany
+381,"Tesla Model S, purple",null,41573.133,2021-11-03,Lisa Anderson,5426358068,3,USA
+382,"Kia Rio, orange",3.1,31358.25,2022-07-25,Katherine Wright,001-653-576-8207,0,South Korea
+383,"Hyundai Elantra, pink",5,26203.679999999997,2018-05-25,Robert Little,(455)934-8712x7305,0,South Korea
+384,"Hyundai Avante, orange",5.5,36706.950000000004,2021-08-15,Joseph French,+1-136-555-5322,0,South Korea
+385,"Lada Samara, orange",7.8,18517.499000000003,2019-10-27,Kristin Anderson,036.243.8088,9,Russia
+386,"Audi S3, blue",6.9,35785.1,2019-03-09,Barbara Villegas,9404251203,0,Germany
+387,"Tesla Model 3, pink",null,30117,2017-11-20,Jerry Aguirre,365-772-0890,0,USA
+388,"Kia Rio, yellow",3.1,27163.574999999997,2015-09-09,Victor Grant,233-598-0040,0,South Korea
+389,"BMW M3, yellow",9,39026.744999999995,2020-04-17,Aaron Montgomery,590-202-0061,0,Germany
+390,"Lada Vesta, yellow",7.3,14627.5515,2020-12-15,Collin Lewis,+1-759-481-6463x4137,6,Russia
+391,"BMW M3, purple",9,44478,2022-05-30,Todd Robertson,986.898.2170,0,Germany
+392,"Audi A3, red",5.7,24727.3125,2016-03-10,Kelsey Hughes,001-814-021-9314x24124,0,Germany
+393,"Tesla Model S, green",null,55069.98,2018-07-01,Erika Hall,001-962-116-3949x90004,5,USA
+394,"Tesla Model S, green",null,34306.200000000004,2020-06-14,Rachel Johnson,(125)861-8594x8253,0,USA
+395,"Audi RS3, purple",7.5,27139.2,2018-08-20,Ronald Calderon,889-100-0870,0,Germany
+396,"Audi A3, pink",5.7,21478.319999999996,2018-08-18,Linda Mendez,+1-023-025-9017,0,Germany
+397,"Porsche 911, grey",12,75597.6,2019-11-23,Anthony Richardson,455-329-9442x59414,0,null
+398,"Hyundai Avante, blue",5.5,31708.95,2021-07-30,Molly Odom,(148)533-4816x01108,0,South Korea
+399,"Tesla Model Y, red",null,55729.375,2016-03-27,Catherine Garcia,0122257343,0,USA
+400,"Hyundai Elantra, pink",5,19795.2,2017-08-11,Bailey Guzman,001-654-035-0399x98526,0,South Korea
+401,"Audi A3, green",5.7,29150.568,2018-05-18,Frances Logan,+1-286-975-9067,13,Germany
+402,"BMW M3, red",9,50146.875,2020-10-06,Tina Stark,+1-796-596-0058x1705,0,Germany
+403,"Hyundai Avante, pink",5.5,22054.2,2017-04-22,Steven Gentry Jr.,+1-962-305-7326x461,0,South Korea
+404,"Hyundai Elantra, orange",5,32254,2017-07-31,Holly Harris,+1-434-386-9083x687,0,South Korea
+405,"Tesla Model 3, blue",null,47628,2018-07-26,Juan Simmons,273-231-2557x281,0,USA
+406,"Kia K5, blue",4.9,34729.2,2018-08-17,Kimberly Daniels,001-944-968-1881,0,South Korea
+407,"Audi A3, yellow",5.7,28791.629999999997,2015-08-29,Matthew Griffin,(560)066-7267x87395,0,Germany
+408,"Audi S3, yellow",6.9,26993.835,2015-12-07,Sierra Weaver,(706)542-1752x79268,0,Germany
+409,"Lada Kalina, grey",6.7,14526.75,2021-04-05,Jonathan Thompson,+1-578-199-7830,0,Russia
+410,"Kia K5, orange",4.9,24869,2019-05-18,John Wilson,174-139-3814x0356,0,South Korea
+411,"Kia Rio, green",3.1,15384.3,2016-07-23,Shawn Ray,944.172.4788x430,0,South Korea
+412,"Hyundai Sonata, orange",6,38700,2018-02-05,Mary Perez,(383)865-8579x868,0,South Korea
+413,"Audi A3, red",5.7,26554.5,2022-07-22,Jennifer Mccullough MD,(025)710-1434,0,Germany
+414,"Audi S3, green",6.9,20236.5,2015-01-08,Timothy Andrews,001-725-996-1535,0,Germany
+415,"BMW F80, red",8.3,49898.625,2021-04-04,Jacqueline Cooper,001-408-842-1133x26943,0,Germany
+416,"Kia Rio, purple",3.1,19995.864,2022-05-06,Richard Zhang,203-806-2875,18,South Korea
+417,"Hyundai Elantra, green",5,41940,2018-09-06,Jason Brown,+1-578-626-8316x2850,0,South Korea
+418,"Kia Rio, blue",3.1,21258,2017-05-03,Michelle Hernandez,492-032-7199,0,South Korea
+419,"Porsche 911, yellow",12,78290.15999999999,2018-04-09,Jason Hawkins,2970540924,0,null
+420,"Hyundai Elantra, red",5,34114.21875,2015-07-08,Rachel Austin,448-378-7250,15,South Korea
+421,"Hyundai Elantra, blue",5,32379.3,2020-05-03,Dr. Brian Duncan,1025726177,0,South Korea
+422,"Audi RS3, red",7.5,27439.5625,2016-02-16,Troy Kelly,001-629-802-0289x519,0,Germany
+423,"Hyundai Sonata, pink",6,21756.42,2022-10-18,Jennifer Austin,(364)716-5656,0,South Korea
+424,"BMW M3, green",9,45444,2022-07-07,Amy Bradley,001-481-037-4519x30327,0,Germany
+425,"Audi A3, grey",5.7,26000.399999999998,2018-10-06,Gina Martin,998.930.6631,0,Germany
+426,"BMW M3, green",9,38973,2017-09-08,Kathleen Dodson,001-107-885-0198x47401,0,Germany
+427,"Hyundai Avante, pink",5.5,16771.859999999997,2015-06-14,Mrs. Heather Hutchinson MD,615.250.7627x5234,0,South Korea
+428,"Audi RS3, green",7.5,26971.2,2018-02-18,Tyler Walker,630-950-7043x5734,0,Germany
+429,"Tesla Model S, purple",null,44584.45,2016-11-01,Jason Leon,031.546.9395x9002,0,USA
+430,"Kia Rio, orange",3.1,24393.600000000002,2020-08-09,Patricia Christensen,284.666.6256x295,0,South Korea
+431,"Audi RS3, yellow",7.5,40153.756499999996,2019-07-12,Anna Davis,(740)031-8461,1,Germany
+432,"Tesla Model X, grey",null,26151.120000000003,2020-03-13,Samuel Ellis,166.566.0761x9164,20,USA
+433,"BMW F80, pink",8.3,25467.6,2017-01-14,Walter Smith,673-538-8034x84160,0,Germany
+434,"BMW F80, blue",8.3,41767.950000000004,2022-12-21,Amy Thomas,001-510-559-0241,0,Germany
+435,"BMW F80, grey",8.3,45922.8,2021-01-09,Jon Smith,893.038.9040x59900,0,Germany
+436,"Lada Samara, orange",7.8,16222.7,2019-07-02,Sherri Russell,558.542.9908,0,Russia
+437,"Lada Kalina, yellow",6.7,17662.1025,2021-12-18,Mark Smith,271-794-2476,0,Russia
+438,"Lada Kalina, yellow",6.7,13894.812899999999,2015-07-23,Katherine Jones,653.475.0752x9078,19,Russia
+439,"Kia K5, pink",4.9,15667.559999999998,2015-02-21,Meagan Jackson,(134)979-0994x339,0,South Korea
+440,"BMW M3, blue",9,34824.15,2016-04-10,Kathleen Cantu,254.556.0149x48588,0,Germany
+441,"Kia K5, green",4.9,26002.2,2021-08-27,Brian Cruz,818-567-2543,0,South Korea
+442,"Lada Kalina, blue",6.7,17227.350000000002,2022-12-29,Kyle Smith,990-241-2127,0,Russia
+443,"Audi RS3, blue",7.5,18840.384,2015-04-17,Zachary Buckley,(113)377-5542,4,Germany
+444,"BMW M3, yellow",9,42631.355025,2021-04-09,Dr. Craig Henderson,442-718-8607,13,Germany
+445,"BMW F80, orange",8.3,44119,2017-08-31,Danielle Schmidt,001-426-165-2625x778,0,Germany
+446,"BMW F80, blue",8.3,41518.799999999996,2016-11-24,Shannon Garrison,+1-865-918-4698x665,0,Germany
+447,"Porsche 911, pink",12,37597.14,2022-02-23,Robert Sanchez,(161)638-5551x804,0,null
+448,"Audi A3, red",5.7,29438.125,2016-05-22,Stephen Ward,4996675098,0,Germany
+449,"Porsche 911, red",12,69466.25,2017-08-01,Katrina Brown,277-848-7289x3839,0,null
+450,"BMW F30, pink",2,32682.78,2019-03-25,Jenna Garcia,(130)081-5389x6589,0,Germany
+451,"Hyundai Avante, grey",5.5,26251.641000000003,2015-05-07,Diana Johnson,1965735353,13,South Korea
+452,"Kia K5, green",4.9,18881.100000000002,2021-12-18,Kelly Lyons,123-051-6613,0,South Korea
+453,"Hyundai Sonata, red",6,39843.5625,2021-03-29,James Gray,290.145.9097,0,South Korea
+454,"Kia Rio, pink",3.1,14249.508,2017-07-31,Joe Flynn,559-428-2583x620,9,South Korea
+455,"BMW F30, green",2,46839.6,2018-12-20,David Ruiz,7614399157,0,Germany
+456,"Tesla Model Y, red",null,50229.58500000001,2015-05-27,Victoria Wright,(494)352-8214,8,USA
+457,"Audi S3, orange",6.9,26042.4,2020-07-24,Martin Cunningham,950-252-0759,0,Germany
+458,"Hyundai Avante, pink",5.5,22830.8496,2019-03-06,Melissa Bridges,825-472-7989x17466,11,South Korea
+459,"Kia K5, blue",4.9,22055.8,2019-03-24,Shawn Cole MD,+1-787-055-2985x40658,0,South Korea
+460,"Tesla Model X, green",null,67568.8,2019-01-07,Sean Roberts,001-469-842-6365x26456,0,USA
+461,"Porsche 911, purple",12,57735,2020-01-07,Lisa Stewart,001-280-784-3575x7002,0,null
+462,"Hyundai Sonata, pink",6,19788.69,2016-09-25,Carrie Young,+1-724-775-9417x9527,0,South Korea
+463,"BMW F80, pink",8.3,25625.88,2021-09-05,Kenneth Holt,(998)997-0528x2082,0,Germany
+464,"Hyundai Avante, pink",5.5,19819.8,2022-11-24,Wendy Blair,001-247-883-0812x60067,0,South Korea
+465,"Lada Vesta, pink",7.3,10940.580000000002,2022-09-29,Tracy Price,001-176-362-7097,5,Russia
+466,"Tesla Model X, orange",null,32158.8,2015-01-29,Shane Garcia,001-504-607-8012,0,USA
+467,"Hyundai Avante, blue",5.5,37079.700000000004,2021-07-25,Thomas Moore,(939)664-7052x64979,0,South Korea
+468,"Tesla Model X, pink",null,36313.2,2018-04-13,Juan Hernandez,+1-723-878-2939,0,USA
+469,"Audi S3, blue",6.9,25990.8,2018-10-21,Christina Nielsen,105-518-7353,0,Germany
+470,"Audi A3, yellow",5.7,40248.39,2019-10-19,Brittany Perez,632-657-8902,0,Germany
+471,"Porsche 911, pink",12,27263.142,2015-07-13,Kristin Carter,001-894-137-0332x473,19,null
+472,"Porsche 911, blue",12,50314.7645,2016-05-14,Todd Ruiz,9399727477,9,null
+473,"Hyundai Elantra, yellow",5,44594.182499999995,2021-03-29,Mr. Joseph Mitchell,(260)432-1831x60158,0,South Korea
+474,"Lada Kalina, green",6.7,16511,2016-04-02,Casey Lewis,001-004-867-2612x6548,0,Russia
+475,"Tesla Model 3, red",null,60558.345,2018-08-26,Lisa Flores,443-852-4644,7,USA
+476,"Audi A3, yellow",5.7,25080.35,2017-02-24,Cole Coleman,001-082-379-0078,0,Germany
+477,"Lada Samara, grey",7.8,12309.72,2018-05-23,Kylie Garcia,001-104-429-3717x8665,5,Russia
+478,"Hyundai Avante, orange",5.5,37755.9,2022-05-17,Sara Le,924.503.4586x1465,0,South Korea
+479,"Hyundai Elantra, pink",5,23894.64,2018-09-16,Kevin Thomas,+1-676-086-3802x4603,0,South Korea
+480,"Audi A3, green",5.7,22113.441,2020-11-16,Stephanie Anderson,912.783.8025x80348,17,Germany
+481,"BMW M3, purple",9,41974.8,2021-05-08,Brian Hayes,959-103-0624,0,Germany
+482,"Hyundai Sonata, orange",6,30127.35,2016-08-26,Lisa Bowen,(142)491-4580x59207,0,South Korea
+483,"Kia K5, purple",4.9,27331,2017-03-24,Mrs. Renee Brooks,409.033.4245x1965,0,South Korea
+484,"Hyundai Sonata, yellow",6,55747.055,2019-05-16,Christina Cross,001-249-626-8465x504,0,South Korea
+485,"Porsche 911, yellow",12,85898.09999999999,2018-09-21,Monica Medina,(787)237-7387x125,0,null
+486,"Lada Samara, grey",7.8,10830.6,2020-09-26,Christine Durham,(561)113-7760x0430,0,Russia
+487,"Lada Kalina, red",6.7,19063.53125,2016-06-11,Jorge Wolfe,458-753-3076x0245,3,Russia
+488,"Lada Samara, grey",7.8,11316.984,2021-06-22,Kimberly Mcknight,001-193-669-2464x4989,18,Russia
+489,"Audi RS3, yellow",7.5,44353.659999999996,2019-02-05,Mackenzie Williams,+1-868-711-9628,0,Germany
+490,"BMW F80, orange",8.3,46690.8,2019-11-05,Joseph Nolan,+1-661-095-1539x8425,0,Germany
+491,"Porsche 911, yellow",12,60838.335,2020-10-16,Kevin Jones,(849)497-5061x4739,0,null
+492,"Lada Kalina, blue",6.7,9793.5975,2016-04-06,Jose Carter,001-696-047-0533x917,7,Russia
+493,"Audi RS3, purple",7.5,22685.4,2020-05-29,David Gonzales,761-224-2693x2837,0,Germany
+494,"BMW M3, green",9,43465.8,2022-08-07,Jason Murphy,+1-815-381-1752x91018,0,Germany
+495,"Lada Samara, blue",7.8,17896.8,2018-12-18,Anna Gomez,442-344-1239x38987,0,Russia
+496,"Tesla Model 3, purple",null,44720.55,2022-01-15,Gerald Campbell,485.577.4296,0,USA
+497,"Audi S3, pink",6.9,14035.109999999999,2016-12-19,Debra Taylor,209.562.7740x42367,0,Germany
+498,"Lada Vesta, blue",7.3,16780,2017-03-08,Kyle Ruiz,(854)610-0516x1504,0,Russia
+499,"Hyundai Elantra, red",5,43196.175,2017-09-11,Jose Richardson,123.466.3703x373,7,South Korea
+500,"Tesla Model Y, purple",null,47548.8,2019-03-29,Rodney Wong,139-230-6262,0,USA
+501,"Tesla Model S, purple",null,44517.9,2021-05-22,Felicia White,(278)447-4982x97638,0,USA
+502,"Lada Vesta, orange",7.3,15905.400000000001,2021-12-11,Joseph Freeman,839.186.3885x24096,0,Russia
+503,"Lada Vesta, purple",7.3,14167.4,2019-01-20,Michael Moore,001-250-468-8403x8729,0,Russia
+504,"Lada Vesta, blue",7.3,16365.300000000001,2021-05-11,Carlos Watson,+1-093-130-2040x316,0,Russia
+505,"Lada Vesta, grey",7.3,12664.800000000001,2020-12-20,Dawn Montgomery,486-535-6583x0818,0,Russia
+506,"Hyundai Elantra, green",5,33532,2017-03-04,Mark Villegas,+1-469-420-1355,0,South Korea
+507,"Tesla Model Y, yellow",null,40317.85,2017-03-12,Tyler Frey,001-508-297-9194,0,USA
+508,"Kia Rio, red",3.1,30776.8125,2021-09-12,Rhonda Reyes,233.490.4671,0,South Korea
+509,"BMW F80, grey",8.3,42441.25,2016-12-19,Mrs. Haley Mccoy,+1-077-769-4826,0,Germany
+510,"BMW F80, purple",8.3,46826.85,2022-09-21,Ashley Yang,380.591.8375,0,Germany
+511,"Audi RS3, yellow",7.5,28259.122499999998,2022-09-27,Jacqueline Lopez,001-982-157-2616,0,Germany
+512,"Tesla Model 3, orange",null,41310.15,2022-04-19,Kathleen Villanueva,(331)822-5026,0,USA
+513,"Porsche 911, purple",12,77127.7,2019-07-22,Caitlin Cook,001-067-272-6613x007,0,null
+514,"Tesla Model 3, green",null,61436.399999999994,2018-07-16,Jennifer Cooper,215.819.0980x31971,0,USA
+515,"Kia K5, blue",4.9,19917.9,2015-10-17,Kelly Robinson,(800)141-5930x82968,0,South Korea
+516,"Tesla Model Y, grey",null,60753.6,2018-08-02,Tyler Dougherty,3538773904,0,USA
+517,"BMW F80, yellow",8.3,43933.68,2015-08-16,Charles Carroll,411.653.7225x3900,0,Germany
+518,"BMW M3, red",9,49747.79250000001,2021-03-31,Brandon Patel,(422)544-7465x490,7,Germany
+519,"BMW F30, grey",2,39252.6,2020-03-01,Mary Moore,997.079.3323x04560,0,Germany
+520,"Audi A3, blue",5.7,24041.7,2015-04-08,Brandi Williams,993.842.0157,0,Germany
+521,"Lada Kalina, red",6.7,17437.5,2020-06-08,Evelyn Valencia,(684)763-0972x41690,0,Russia
+522,"Kia K5, yellow",4.9,25587.27,2020-01-05,Timothy Young,(201)967-9915,0,South Korea
+523,"Kia Rio, green",3.1,17539.2,2020-05-30,Michael Ramirez,013.377.8879x2519,0,South Korea
+524,"BMW F80, pink",8.3,22885.2,2017-10-23,Eric Burton,(563)482-5799,0,Germany
+525,"Porsche 911, yellow",12,89224.58999999998,2019-01-31,Ralph Smith,(889)179-6676,0,null
+526,"Tesla Model S, yellow",null,50958.57,2016-10-14,David Bowen,(452)660-5161x5373,0,USA
+527,"Tesla Model X, green",null,58076.4,2018-07-24,Nicholas Garner,887.743.2866x548,0,USA
+528,"Hyundai Avante, green",5.5,32972.1,2021-09-04,Kevin Holt,669.027.1236,0,South Korea
+529,"Lada Samara, yellow",7.8,14335.44,2022-10-03,Patrick Rice,(556)584-3247,0,Russia
+530,"BMW F80, pink",8.3,20838.600000000002,2015-11-11,Marvin Silva,(730)380-9341x364,0,Germany
+531,"Lada Samara, red",7.8,24370.149999999998,2017-03-08,Sandra Davis,292.114.9102x4583,2,Russia
+532,"Lada Kalina, purple",6.7,11933,2017-10-27,Linda Nelson,001-396-500-4283x878,0,Russia
+533,"Audi RS3, green",7.5,19187.100000000002,2020-07-26,Elizabeth Flores,001-808-251-4000x28292,0,Germany
+534,"BMW F80, purple",8.3,43258.950000000004,2022-11-19,Leslie Carlson,(685)971-3346x5820,0,Germany
+535,"Tesla Model S, orange",null,54814.200000000004,2022-12-04,Jill Hooper,001-497-517-8339x728,0,USA
+536,"Lada Vesta, blue",7.3,10300.5,2015-08-31,John Ortiz,035-468-1560,0,Russia
+537,"BMW M3, blue",9,45151.2,2018-01-26,Wendy Rivera,(016)321-1173x771,0,Germany
+538,"Tesla Model Y, yellow",null,69226.31999999999,2018-01-31,Stephanie Gutierrez,(261)731-5263x7172,0,USA
+539,"Hyundai Avante, pink",5.5,18324.6,2017-03-15,Timothy Carlson,001-003-850-8031x765,0,South Korea
+540,"Hyundai Elantra, orange",5,32013,2017-12-08,Maria Ellis,4619160245,0,South Korea
+541,"Audi S3, green",6.9,33667.2,2018-06-25,Matthew Alexander,029-891-2732,0,Germany
+542,"Kia K5, pink",4.9,15986.1,2019-11-15,Larry White,102-710-5353x04939,0,South Korea
+543,"Lada Vesta, pink",7.3,10638,2018-01-08,April Morrow,001-530-933-9526x395,0,Russia
+544,"Audi S3, purple",6.9,32247.6,2018-02-10,Cassandra Good,(638)448-3389,0,Germany
+545,"Tesla Model 3, green",null,55353.9,2022-06-23,Mary Bailey,001-617-540-4384x199,0,USA
+546,"BMW F80, green",8.3,55291.6,2019-03-21,Sean Wyatt,6188354037,0,Germany
+547,"Kia Rio, red",3.1,27333.179999999997,2018-11-05,Jessica Price,938-354-6977,2,South Korea
+548,"Lada Samara, blue",7.8,18035.75,2016-04-19,Nathan Faulkner,069-864-6549,0,Russia
+549,"Audi S3, red",6.9,32917.625,2019-03-17,Megan Williams,(645)324-6583,0,Germany
+550,"Lada Vesta, red",7.3,17895.625,2016-01-26,Brittany Kim,(760)829-4357x87409,0,Russia
+551,"Tesla Model Y, grey",null,52570.350000000006,2021-02-22,Joy Miller,640-290-4274x1088,0,USA
+552,"Lada Samara, purple",7.8,9971.1,2020-08-24,Barbara Day,161-617-1835x01370,0,Russia
+553,"Audi S3, purple",6.9,29339.100000000002,2021-01-06,Olivia Dixon,001-568-521-9094x37065,0,Germany
+554,"Lada Vesta, grey",7.3,18771.480000000003,2021-06-10,Angela Davis,005.182.4626,10,Russia
+555,"Tesla Model 3, red",null,67864.875,2019-11-23,Daniel Norton,001-214-077-2858,0,USA
+556,"Tesla Model S, orange",null,48662,2017-04-20,Jessica Fischer,001-223-419-3182x005,0,USA
+557,"Audi S3, purple",6.9,25358.4,2015-01-31,Deborah Nelson,334-831-7034,0,Germany
+558,"BMW F80, orange",8.3,38539,2017-07-26,James Lutz,988-543-1282x24412,0,Germany
+559,"Porsche 911, yellow",12,79493.51999999999,2018-05-02,Shane Hawkins,472-372-0131,0,null
+560,"Hyundai Sonata, orange",6,43637.1,2019-11-04,Cody Greer,138.390.5523x302,0,South Korea
+561,"BMW F80, blue",8.3,41907.35,2016-02-26,Shawn Johnson,731-751-9139,0,Germany
+562,"Audi S3, green",6.9,23563.8,2020-03-14,Christina Miller,001-434-303-2478x5207,0,Germany
+563,"Audi RS3, purple",7.5,21595.5,2020-09-26,Sherry Kennedy,207-875-7310x97585,0,Germany
+564,"Tesla Model 3, pink",null,20488.649999999998,2016-03-31,Breanna Wallace,+1-172-367-3046x9273,0,USA
+565,"Tesla Model S, orange",null,43267.655,2016-10-03,Mary Willis,052-704-0436x6307,5,USA
+566,"Lada Samara, grey",7.8,18265.92,2017-02-15,Kristin Mcdonald,(485)318-2496x32237,4,Russia
+567,"Porsche 911, yellow",12,75181.36499999999,2021-06-24,Pamela Glass,(817)298-1518x194,0,null
+568,"Lada Vesta, yellow",7.3,22175.8686,2018-04-01,Ronald Brown,001-248-612-4753,7,Russia
+569,"Lada Kalina, green",6.7,23755.2,2018-06-06,Shannon Clements,830.243.5066x828,0,Russia
+570,"Audi S3, purple",6.9,21833.7,2022-02-28,Yolanda Wilson,6029478943,0,Germany
+571,"BMW M3, green",9,34520.598000000005,2020-04-07,Joshua Robinson,(898)440-8427,2,Germany
+572,"Porsche 911, grey",12,44602.488,2015-10-14,Sabrina Heath,001-422-406-8886,16,null
+573,"Lada Samara, red",7.8,13895.4375,2021-07-27,Michelle Richardson,(894)973-5517x1993,0,Russia
+574,"BMW M3, blue",9,43171,2017-05-01,Rhonda Simmons,+1-807-275-6595x3328,0,Germany
+575,"BMW F80, orange",8.3,40014.9,2015-04-12,Kathleen Duncan,823-553-5204x6715,0,Germany
+576,"Tesla Model 3, grey",null,33344.892,2022-12-10,Charles Scott,001-208-189-2358x5419,16,USA
+577,"Kia Rio, grey",3.1,29334.9,2022-06-17,Jennifer Hess,001-432-935-9793x2255,0,South Korea
+578,"Kia K5, purple",4.9,13887.9,2020-11-11,Mrs. Andrea King DVM,408.067.9061x106,0,South Korea
+579,"Hyundai Elantra, blue",5,31766.1,2016-09-04,Eddie Rice,328-061-1712,0,South Korea
+580,"Audi RS3, blue",7.5,20659.716,2021-06-14,Joshua Hernandez,081.921.1542x6871,13,Germany
+581,"Tesla Model S, purple",null,40386.15,2022-12-30,Shannon Martinez,448.488.8677x5083,0,USA
+582,"Tesla Model 3, purple",null,53495,2019-08-03,Morgan Allen,+1-218-152-6899x254,0,USA
+583,"Lada Kalina, green",6.7,13699.199999999999,2018-04-23,Tina Cummings,294.508.9732x890,0,Russia
+584,"Lada Kalina, purple",6.7,12954.6,2015-07-04,David Mccullough,715.683.7476,0,Russia
+585,"Hyundai Avante, blue",5.5,33040.8,2015-04-22,Darrell Rodriguez,(449)182-8391,0,South Korea
+586,"Audi A3, yellow",5.7,22524.704999999998,2020-04-22,Robert Owen,+1-646-408-2743x96329,0,Germany
+587,"Tesla Model X, blue",null,34422.299999999996,2016-02-06,Brittany Donovan,5960674690,0,USA
+588,"BMW F80, purple",8.3,39303.6,2021-08-30,Nicole Gomez,+1-864-604-3079x53140,0,Germany
+589,"Hyundai Sonata, orange",6,27083.805,2022-05-25,Martin Meza,735.877.9874x744,15,South Korea
+590,"Lada Samara, yellow",7.8,20894.35,2017-07-06,Lisa Johnson,596.862.0866,0,Russia
+591,"Hyundai Avante, blue",5.5,44682,2018-02-23,Mark Ellis,+1-956-652-2751,0,South Korea
+592,"Lada Samara, red",7.8,13252.5,2015-01-01,Joseph Johnson,(029)870-5437x381,0,Russia
+593,"BMW F30, yellow",2,51610.965,2022-02-23,Natalie Estrada,478.771.7991,0,Germany
+594,"Audi RS3, orange",7.5,26278.8,2018-03-31,Antonio Harvey,+1-943-302-4457x0606,0,Germany
+595,"Porsche 911, yellow",12,59152.31999999999,2015-03-30,Robin Wallace,5243117794,0,null
+596,"BMW F80, grey",8.3,48280.518000000004,2019-07-21,Matthew Dunlap,001-161-117-9932x8739,1,Germany
+597,"Tesla Model S, blue",null,55250.4,2018-04-18,Susan Phelps,001-769-988-0037x303,0,USA
+598,"Kia Rio, yellow",3.1,21981.1,2017-09-19,Lori Ware,684.093.1782x277,0,South Korea
+599,"Hyundai Elantra, orange",5,35841.75,2022-02-08,John Kim,005-581-9409,0,South Korea
+600,"Porsche 911, red",12,73170.5625,2022-08-24,Samantha Silva,299.673.6245x22006,0,null
+601,"Kia Rio, red",3.1,24129,2022-07-25,John Juarez,609-815-7573,0,South Korea
+602,"Tesla Model X, purple",null,52137.75,2022-03-20,Steven Cochran,001-227-629-7886x7511,0,USA
+603,"Tesla Model S, yellow",null,66342.465,2021-11-11,Mary Ryan,+1-323-790-8935x523,0,USA
+604,"Lada Kalina, blue",6.7,11270.7,2021-03-11,Taylor Rios,+1-523-639-3337x623,0,Russia
+605,"Lada Vesta, purple",7.3,16308,2015-11-28,Cody Baldwin,264.912.9079,0,Russia
+606,"Lada Samara, orange",7.8,17629.5,2022-09-29,Calvin Blake,141-734-5074,0,Russia
+607,"Tesla Model S, red",null,70568.875,2019-05-23,Maria Villanueva,(019)710-3769,0,USA
+608,"Lada Samara, yellow",7.8,25924.795,2019-09-21,Janice Thompson,001-026-331-6585,0,Russia
+609,"Tesla Model X, orange",null,49164.700000000004,2019-07-15,Brenda Mitchell,865-420-5494x30657,0,USA
+610,"Audi A3, grey",5.7,31296.300000000003,2021-11-07,Steven Forbes,(101)539-9473x14440,0,Germany
+611,"Lada Samara, purple",7.8,14693.4,2020-04-02,Samuel Alvarez,989-877-6311x84611,0,Russia
+612,"Lada Vesta, purple",7.3,17056.3,2016-05-26,Thomas Hansen,4328256556,0,Russia
+613,"Lada Vesta, grey",7.3,14294.7,2021-04-11,Melissa Mcdaniel,682-729-7277x27166,0,Russia
+614,"Hyundai Elantra, pink",5,19459.44,2020-03-26,Jesse Carlson,439.633.2334x58861,0,South Korea
+615,"Kia Rio, grey",3.1,21629.016000000003,2015-06-14,Justin Case Jr.,848.701.6164,8,South Korea
+616,"Hyundai Sonata, yellow",6,45425.45999999999,2018-09-18,Michael Krueger,725.073.5104x8367,0,South Korea
+617,"Lada Vesta, blue",7.3,25916.8,2019-10-06,Dr. Christine Knapp,001-831-967-5171x6678,0,Russia
+618,"Lada Vesta, grey",7.3,12319.65,2021-12-31,Dwayne Wang,8539797409,0,Russia
+619,"Porsche 911, pink",12,36264.78,2015-10-07,Timothy Parker,658-127-2895x1590,0,null
+620,"Audi RS3, pink",7.5,17319.9888,2018-04-12,Edward Booker,968-095-8708x45974,6,Germany
+621,"Tesla Model S, red",null,51093,2021-11-02,Angela Clark,405.444.9215,0,USA
+622,"Hyundai Elantra, pink",5,18365.94,2020-06-28,Gary Brown,+1-135-278-7134x732,0,South Korea
+623,"Hyundai Elantra, yellow",5,45020.43,2021-08-24,Luis Patel,(287)606-8577,0,South Korea
+624,"Porsche 911, green",12,72691.2,2018-07-01,Terry Fry,984.668.7124,0,null
+625,"Tesla Model X, red",null,65152.1875,2016-09-01,Thomas Brock,841.555.6091x7752,0,USA
+626,"Lada Kalina, red",6.7,20905.875,2020-12-09,Amber Barnett,001-347-464-7310x33842,0,Russia
+627,"Hyundai Sonata, pink",6,18774.72,2020-12-06,Cody Lloyd,512.559.6476,0,South Korea
+628,"Hyundai Elantra, grey",5,32920.65,2021-07-17,Todd Palmer,(720)767-2286x753,0,South Korea
+629,"Audi RS3, pink",7.5,17284.02,2019-01-05,Patty Peterson,453.181.2155x03656,0,Germany
+630,"Porsche 911, grey",12,68387.55,2022-01-26,Katherine Robinson,+1-936-891-1910x145,0,null
+631,"Audi A3, yellow",5.7,28848.554999999997,2015-10-18,Megan Anderson,295.963.0833x456,0,Germany
+632,"Audi A3, grey",5.7,21628.649999999998,2016-10-13,Sandra Wheeler,001-908-435-7509x239,0,Germany
+633,"Audi S3, grey",6.9,18162.9,2015-09-25,Theresa Oliver,624.441.4774x241,0,Germany
+634,"Kia Rio, blue",3.1,15155.349999999999,2016-10-06,Elizabeth Diaz,+1-454-056-0536x1655,0,South Korea
+635,"BMW F80, green",8.3,38545,2017-03-05,Wendy Allen,077.546.9129,0,Germany
+636,"Audi RS3, grey",7.5,24208.85,2016-05-05,Andrew Henry,915.321.9397x253,0,Germany
+637,"Audi A3, green",5.7,24489.1,2016-03-02,Louis Bender,(849)586-9830x9331,0,Germany
+638,"BMW F30, green",2,38399.55,2021-08-05,Eric Daniels,+1-332-993-0278x1068,0,Germany
+639,"Tesla Model X, orange",null,45180,2015-12-19,Mrs. Brittney Hunter,269-364-8847,0,USA
+640,"Porsche 911, orange",12,52116.3,2020-04-25,Jaclyn Reynolds,402.680.4529x13302,0,null
+641,"Tesla Model Y, blue",null,42476.4,2018-03-23,Jasmine Contreras,+1-851-882-7820x7691,0,USA
+642,"Audi RS3, grey",7.5,26853,2017-03-09,Deborah Harrison,(487)355-5301x393,0,Germany
+643,"Audi A3, green",5.7,20832,2017-06-07,Dustin Rogers,+1-655-503-1566x66319,0,Germany
+644,"Hyundai Avante, green",5.5,39822.3,2021-05-06,Ariana Ortega,001-630-791-3408x314,0,South Korea
+645,"BMW F80, green",8.3,41784.75,2021-03-15,David Fry,001-538-081-9975x0367,0,Germany
+646,"Tesla Model S, yellow",null,47553.765,2021-01-31,David Fields,227-921-6743x13803,0,USA
+647,"Kia K5, grey",4.9,24003,2021-10-05,Mark Sullivan,(293)190-1644,0,South Korea
+648,"Audi RS3, red",7.5,28423.395000000004,2021-02-22,Elizabeth Tucker,001-596-272-1681x293,12,Germany
+649,"BMW F80, orange",8.3,53166,2018-04-14,Crystal Sanders,(075)219-2905x306,0,Germany
+650,"Porsche 911, pink",12,34081.560000000005,2015-11-20,Brian Simpson,960.277.8678,0,null
+651,"Audi A3, green",5.7,30441.600000000002,2022-12-22,Karen Garcia,001-404-701-0367x770,0,Germany
+652,"Tesla Model 3, blue",null,37172.1,2021-05-26,Michael Velazquez,345-345-5968x051,0,USA
+653,"Tesla Model X, pink",null,29773.379999999997,2016-12-26,Michael Davis,(233)213-6687x92446,0,USA
+654,"Kia Rio, grey",3.1,26308.8,2018-11-18,Joseph Reed,560.398.3456,0,South Korea
+655,"Hyundai Avante, pink",5.5,24081.84,2018-12-31,Suzanne Romero,998-617-7780,0,South Korea
+656,"Lada Samara, green",7.8,16942.3,2016-07-28,Amy Fisher,3557471614,0,Russia
+657,"Audi A3, purple",5.7,23863,2017-07-02,Todd Gonzalez,+1-684-264-3269x9631,0,Germany
+658,"Audi S3, purple",6.9,26506.899999999998,2016-05-07,Wendy Campbell,341-839-4010x324,0,Germany
+659,"Tesla Model X, pink",null,30183.93,2022-08-03,Caleb George,(429)200-3919x743,0,USA
+660,"Lada Vesta, blue",7.3,16061.85,2022-08-24,Gabrielle Santana,(319)138-0732x90550,0,Russia
+661,"Tesla Model Y, orange",null,34058.700000000004,2020-01-28,Adrienne Campbell,+1-990-676-9792x54152,0,USA
+662,"Lada Vesta, yellow",7.3,19970.325,2020-03-01,Christopher Orozco,456.507.3703x97277,0,Russia
+663,"BMW F80, red",8.3,50418.75,2017-11-21,Thomas Ball,448-016-1881x39243,0,Germany
+664,"Audi S3, yellow",6.9,20852.145,2015-09-25,Jessica Smith,480.500.0280x5588,0,Germany
+665,"Audi S3, pink",6.9,11264.4,2020-08-14,Nathan Meyer,611.101.6729x511,0,Germany
+666,"Tesla Model Y, purple",null,45383.88,2018-02-13,Mr. Connor Thompson,+1-263-648-6239x95102,15,USA
+667,"Tesla Model X, yellow",null,39006.045,2020-09-24,Stephen Sloan,937.160.6050,0,USA
+668,"Tesla Model 3, pink",null,28375.92,2018-09-08,Sarah Blair,572.217.7060x630,0,USA
+669,"Tesla Model Y, red",null,46301.25,2017-07-13,Timothy Kent,471-201-2643x36581,0,USA
+670,"BMW F80, orange",8.3,37554,2017-11-02,Lindsey Kelley,545-460-9076x49032,0,Germany
+671,"Tesla Model X, purple",null,45081.9,2015-10-12,Ashley Johnson,001-419-139-5896x76826,0,USA
+672,"Lada Vesta, purple",7.3,12908.7,2015-11-04,Robert Hopkins,5719788818,0,Russia
+673,"BMW F80, red",8.3,47145,2021-03-02,Samuel Hardy,264-411-7706,0,Germany
+674,"Lada Vesta, red",7.3,18158.625,2020-11-08,Scott Kaiser,2456501847,0,Russia
+675,"Kia K5, yellow",4.9,23090.85,2015-08-08,Daniel Wright,(711)157-1765x662,0,South Korea
+676,"Lada Vesta, orange",7.3,10582.2,2015-05-26,Larry Freeman,037-520-0609x504,0,Russia
+677,"Tesla Model Y, purple",null,41865.549999999996,2016-04-02,Luis Graves,095.400.3832x1691,0,USA
+678,"Hyundai Sonata, red",6,38777.625,2020-09-06,Catherine Avila,(933)429-8704,0,South Korea
+679,"Audi S3, yellow",6.9,20986.695,2020-12-09,Lisa Osborn,001-366-277-6852x359,0,Germany
+680,"Porsche 911, pink",12,40985.2548,2022-02-16,Ruth Esparza,650-663-5928x56124,3,null
+681,"Audi RS3, blue",7.5,23636.949999999997,2016-04-24,Darlene Ramirez,906-463-7100,0,Germany
+682,"Audi A3, purple",5.7,24540.48,2018-04-06,Keith Lopez,001-982-953-4559x78959,20,Germany
+683,"Lada Samara, grey",7.8,20541.15,2021-06-02,Ryan Roberts,001-718-193-6489x3053,0,Russia
+684,"Audi A3, yellow",5.7,28915.829999999998,2020-02-03,Zachary Long,(489)903-7691,0,Germany
+685,"Tesla Model X, grey",null,40913.65,2016-10-13,Cody Martinez,(795)531-8395,0,USA
+686,"Lada Vesta, green",7.3,18139.2,2018-10-20,April Curry,+1-217-204-2448x39099,0,Russia
+687,"Tesla Model 3, orange",null,30302.181000000004,2015-06-01,Andrea Jenkins,758.637.3351x944,9,USA
+688,"Audi S3, orange",6.9,26732.7,2015-12-24,Victoria Brown,001-847-022-3334x6332,0,Germany
+689,"BMW M3, yellow",9,41126.759999999995,2015-08-11,Julia Avila,+1-750-684-0013x59819,0,Germany
+690,"Kia Rio, grey",3.1,22985.820000000003,2019-01-17,Samuel Martinez,001-188-439-4395x9900,1,South Korea
+691,"Lada Vesta, pink",7.3,13731.12,2018-10-21,Glen Kim,3270221367,0,Russia
+692,"Hyundai Elantra, yellow",5,40057.605,2022-08-08,Kelly Dougherty,162-154-5030,0,South Korea
+693,"BMW F30, red",2,48944.621250000004,2022-05-01,William Thompson,814-947-9626x55890,7,Germany
+694,"Kia K5, green",4.9,14671.800000000001,2020-12-01,Angel Walker MD,+1-986-826-6951x75737,0,South Korea
+695,"BMW M3, green",9,34632,2020-07-27,Donna Jefferson,327.625.7043x73024,0,Germany
+696,"Tesla Model S, purple",null,32268.600000000002,2015-03-10,Anne Stevenson,575.371.3315x7159,0,USA
+697,"Kia Rio, blue",3.1,16946.100000000002,2015-12-13,William Hunt,+1-846-054-0879x2284,0,South Korea
+698,"Tesla Model 3, grey",null,42509,2017-02-26,Samantha Kelly,230-053-8104x597,0,USA
+699,"Audi A3, green",5.7,25116.3,2015-09-04,Carlos Conway,+1-196-851-2591x15204,0,Germany
+700,"BMW M3, green",9,47617.700000000004,2019-11-21,Kristy Davis,+1-090-093-5158x17704,0,Germany
+701,"BMW F30, orange",2,36654.72,2018-04-12,Becky Fox,(027)172-6371,20,Germany
+702,"Hyundai Sonata, red",6,45157.5,2017-05-21,Melinda Maldonado,+1-002-302-6805x893,0,South Korea
+703,"Porsche 911, red",12,76334.875,2016-01-06,David Kelley,001-045-178-2118x68729,0,null
+704,"Tesla Model 3, yellow",null,38560.385500000004,2017-12-01,Diana Jones,2955565992,9,USA
+705,"Tesla Model Y, yellow",null,72418.26,2018-01-30,Jeff Pineda,001-429-232-6068x9655,0,USA
+706,"BMW F30, pink",2,19707.84,2020-05-10,Brittany Smith,656-787-2754,0,Germany
+707,"BMW F30, orange",2,43828.05,2022-10-08,Ronald Mendez,654.899.0533x6251,0,Germany
+708,"Audi RS3, green",7.5,21993.3,2015-05-28,Monica Buchanan,+1-303-917-4625x452,0,Germany
+709,"Lada Kalina, grey",6.7,11012.76,2020-02-08,Sandra Mejia,001-566-449-8490x4192,12,Russia
+710,"Kia K5, orange",4.9,25763.712,2019-01-12,Sarah Jones,1806913384,4,South Korea
+711,"Audi RS3, yellow",7.5,32438.809,2019-01-15,Mark Lyons,001-071-932-9889x203,11,Germany
+712,"Tesla Model X, pink",null,20081.376,2021-08-11,Rachel Scott,+1-012-908-4220,20,USA
+713,"Tesla Model 3, grey",null,47100,2017-12-25,William Fleming,001-092-372-9830x382,0,USA
+714,"Tesla Model S, yellow",null,65539.30500000001,2019-08-20,Mary Hawkins,(341)121-6163,0,USA
+715,"BMW F80, purple",8.3,35660.700000000004,2015-05-26,Meagan Dean,(776)709-7273,0,Germany
+716,"Tesla Model Y, grey",null,50614.872,2021-07-09,Jessica Nichols,6451677430,12,USA
+717,"Hyundai Sonata, grey",6,38297.700000000004,2021-11-09,Adam Ryan,5575326410,0,South Korea
+718,"Audi A3, yellow",5.7,34260.3975,2021-03-07,Ronald Baxter,882-608-0264,0,Germany
+719,"Tesla Model S, orange",null,26147.240999999998,2020-09-04,Christina Gray,001-616-719-7783x22092,17,USA
+720,"Lada Kalina, pink",6.7,11345.1,2019-08-02,Diane Johnson,029-442-0889,0,Russia
+721,"Audi A3, yellow",5.7,23121.899999999998,2017-03-11,Rhonda Wilson,639.046.1103x3755,0,Germany
+722,"Tesla Model 3, orange",null,39621,2017-09-07,Katie Anderson,699.866.5770,0,USA
+723,"Lada Samara, grey",7.8,11601,2020-04-27,Dominic Taylor,001-256-812-5155x0529,0,Russia
+724,"Tesla Model Y, pink",null,31842.5184,2018-11-02,Karen Pollard,001-307-459-1979x089,17,USA
+725,"BMW F30, orange",2,32907.6,2015-04-05,Susan Martinez,(332)252-7726,0,Germany
+726,"Kia K5, yellow",4.9,16528.26,2017-10-28,Wesley Cox,448.483.5735x72420,16,South Korea
+727,"Hyundai Elantra, pink",5,19678.2,2017-08-06,Susan Garner DVM,+1-895-073-9908x0475,0,South Korea
+728,"BMW F80, green",8.3,51328.799999999996,2018-06-16,Mrs. Kristin Soto,233.278.0571,0,Germany
+729,"Porsche 911, grey",12,65782.75,2016-02-19,Steven Owens,551-662-6377,0,null
+730,"Kia Rio, green",3.1,17072.45,2016-12-23,Jennifer Evans,+1-577-908-7301,0,South Korea
+731,"Hyundai Sonata, green",6,27048.600000000002,2015-09-02,Scott Brown,527.141.4616,0,South Korea
+732,"Kia K5, grey",4.9,25920.75,2016-04-20,Richard Daniels,230-309-9627x725,0,South Korea
+733,"BMW F80, red",8.3,39866.625,2020-12-08,Nicole Carey,2051889469,0,Germany
+734,"Lada Samara, grey",7.8,15301.650000000001,2022-05-12,Karen Weber,319-632-6002,0,Russia
+735,"Tesla Model X, purple",null,41854,2017-03-23,Phillip Simmons,001-206-421-1735x02993,0,USA
+736,"BMW F80, red",8.3,55987.3125,2021-06-09,Charles Young,8849118046,0,Germany
+737,"Audi A3, grey",5.7,26865.300000000003,2021-03-12,Karla Rodriguez,001-645-358-4042x121,0,Germany
+738,"Hyundai Elantra, purple",5,31413.649999999998,2016-12-10,Belinda Ayala,(888)477-8821x93402,0,South Korea
+739,"BMW F30, orange",2,33518.700000000004,2020-03-12,Sandra Davis DDS,(589)055-0344x22905,0,Germany
+740,"Tesla Model S, orange",null,52183.5,2016-11-08,Michael Mcguire,(460)016-4283,0,USA
+741,"Tesla Model Y, pink",null,29668.59,2022-01-28,George Marshall,651-518-0737x9624,0,USA
+742,"Tesla Model 3, orange",null,52972.5,2021-05-28,Alejandro Stevens,6476542469,0,USA
+743,"Hyundai Sonata, yellow",6,44611.0875,2022-08-07,Joyce Beard,135-816-6588,0,South Korea
+744,"Tesla Model Y, green",null,55116.600000000006,2021-01-27,Gail Campos,001-632-773-6298x790,0,USA
+745,"BMW F80, green",8.3,39420.9,2015-01-31,Anita Stevens,001-925-986-3870,0,Germany
+746,"Tesla Model S, grey",null,31646.7,2020-09-16,Jessica Singleton,603.174.0298,0,USA
+747,"Lada Vesta, pink",7.3,11493.6003,2022-10-27,William Chambers,(302)035-3049x743,7,Russia
+748,"Kia K5, green",4.9,22256,2017-03-25,Jonathan Jackson,001-921-464-2628x421,0,South Korea
+749,"Lada Vesta, orange",7.3,13373.85,2021-11-25,John Sanchez,582-586-7956,0,Russia
+750,"Audi RS3, green",7.5,26626.600000000002,2019-10-11,Amanda Parker,866.621.1750,0,Germany
+751,"Tesla Model Y, red",null,51711.1875,2021-05-18,Jessica Williams,956-760-7204x250,0,USA
+752,"Lada Kalina, green",6.7,17298.55,2016-12-08,Brianna Henderson,001-203-050-0137x448,0,Russia
+753,"Tesla Model X, grey",null,35766,2020-09-04,Tiffany Santiago,(700)996-6905x89633,0,USA
+754,"BMW F80, green",8.3,49966.799999999996,2018-08-10,Douglas Mcguire,5586269700,0,Germany
+755,"Tesla Model 3, pink",null,31083.6,2017-06-06,Mr. Joseph Powers,575-625-4959x144,0,USA
+756,"Kia Rio, purple",3.1,34451.3,2019-08-21,Nicholas Wyatt,+1-940-881-0824,0,South Korea
+757,"BMW M3, grey",9,41039.25,2021-03-29,Dennis Mendoza,472.089.0326x76375,0,Germany
+758,"Hyundai Sonata, grey",6,28748.7,2015-06-17,Mark Frye,(630)253-6683x72224,0,South Korea
+759,"Tesla Model 3, pink",null,24807.510000000002,2021-07-26,Kimberly Chambers,142.363.6509x0354,0,USA
+760,"Hyundai Avante, green",5.5,31160,2017-05-04,Jose Martinez,(318)783-8483,0,South Korea
+761,"BMW M3, blue",9,53468.4,2018-09-07,Jack Miller,5435314658,0,Germany
+762,"Hyundai Elantra, red",5,44562.082500000004,2019-09-13,Alexandra Hartman,3110833416,14,South Korea
+763,"BMW F80, green",8.3,48215.700000000004,2019-09-04,Johnathan Fernandez,+1-667-155-6983x54702,0,Germany
+764,"Audi S3, green",6.9,25545.600000000002,2015-09-28,Jason Robertson,8335319246,0,Germany
+765,"Audi S3, green",6.9,29376.100000000002,2019-07-24,William Wong,9531526164,0,Germany
+766,"Hyundai Sonata, grey",6,33534,2015-06-20,Maria Miller,+1-276-990-5780x357,0,South Korea
+767,"Tesla Model 3, purple",null,36002.700000000004,2020-06-23,Angel Raymond,+1-049-470-0102x09044,0,USA
+768,"Porsche 911, orange",12,78031.2,2019-04-10,Nicole Floyd,+1-175-623-2150x82440,0,null
+769,"Tesla Model 3, grey",null,36226.8,2020-03-12,Anna Mack,529-243-1073x31671,0,USA
+770,"Audi S3, purple",6.9,27614,2017-12-07,Teresa Burke,085-365-8232,0,Germany
+771,"Porsche 911, orange",12,61757.1,2015-04-15,Paula Williams,115.396.2818x5301,0,null
+772,"Tesla Model Y, grey",null,33679.8,2020-03-07,Tony Cruz,001-997-552-5269x4080,0,USA
+773,"Tesla Model X, green",null,37558.5,2022-02-20,Kathleen Shaw,042-497-4709,0,USA
+774,"Hyundai Elantra, purple",5,35313.6,2022-02-07,Jason Cowan,(469)705-1029x2125,0,South Korea
+775,"Hyundai Avante, grey",5.5,35928,2017-10-17,Courtney Warner,(637)095-9255,0,South Korea
+776,"Audi A3, yellow",5.7,22465.71,2015-11-05,Thomas Hardy,+1-755-108-3487x1108,0,Germany
+777,"Kia K5, pink",4.9,9846.75,2016-05-02,David Tucker,983-493-2381,0,South Korea
+778,"Hyundai Elantra, green",5,41616,2018-11-21,David Thomas,142-294-8505,0,South Korea
+779,"Lada Kalina, grey",6.7,15721,2017-01-03,Christina Moore,(314)869-2882,0,Russia
+780,"Hyundai Elantra, grey",5,49289.5,2019-05-23,Joseph Phillips,1800171043,0,South Korea
+781,"Kia K5, grey",4.9,26961.9,2021-06-20,Erica Oneal MD,+1-010-627-3200x88229,0,South Korea
+782,"Tesla Model X, green",null,39192.3,2022-04-16,Elizabeth Gutierrez,1461672676,0,USA
+783,"Lada Vesta, yellow",7.3,19173.312899999997,2022-02-25,Terry Snyder,(440)754-1513,16,Russia
+784,"Lada Samara, purple",7.8,12241,2017-12-09,Andrew Torres,279-283-0389x7782,0,Russia
+785,"Lada Samara, green",7.8,15509.699999999999,2016-08-06,Michelle Jordan,(739)117-5249x38653,0,Russia
+786,"Audi S3, blue",6.9,33133.1,2019-03-24,Kenneth Mitchell,+1-954-288-2276x4393,0,Germany
+787,"BMW M3, yellow",9,45494.9775,2021-12-19,Meredith Jones,001-123-562-3408x554,0,Germany
+788,"BMW M3, purple",9,32601.912,2021-11-18,Sarah Mayer,(756)509-8517x146,14,Germany
+789,"Lada Kalina, green",6.7,18981.3,2019-07-31,Kelly Rodriguez,751.475.5244,0,Russia
+790,"Lada Kalina, red",6.7,15960,2021-12-10,Lori Ramsey,640-365-5956,0,Russia
+791,"Lada Samara, yellow",7.8,21777.894999999997,2016-03-08,Dan Dixon,(339)575-4081x8001,0,Russia
+792,"Tesla Model S, purple",null,45442.299999999996,2016-01-01,April Martinez MD,001-558-837-9975x539,0,USA
+793,"Kia Rio, green",3.1,25494,2017-12-12,David Castaneda,001-058-919-2557x055,0,South Korea
+794,"BMW M3, pink",9,27277.74,2021-12-22,Colin Moreno,430-093-9090,0,Germany
+795,"Tesla Model X, blue",null,44819.25,2021-09-10,Michelle Hamilton,(935)061-0515,0,USA
+796,"Tesla Model Y, green",null,54044.55,2021-03-29,Ashley Thompson,373.655.7072x0464,0,USA
+797,"Hyundai Sonata, blue",6,34009.8005,2016-10-25,Angela Salazar,+1-251-336-2810x01792,3,South Korea
+798,"Hyundai Avante, grey",5.5,38949.75,2021-08-22,Natalie Thompson,166.526.5059x598,0,South Korea
+799,"BMW F80, red",8.3,52153.014375,2021-03-29,Joseph Wolfe,001-021-113-6256x2537,1,Germany
+800,"BMW M3, orange",9,47437.2,2018-12-01,Kimberly Gray,(648)221-9227x77337,0,Germany
+801,"Lada Vesta, green",7.3,20841.45,2021-07-18,April Tran,074-256-9517x391,0,Russia
+802,"Tesla Model X, green",null,45783,2015-08-28,Megan Morrow,(617)111-6857,0,USA
+803,"Audi A3, green",5.7,25648.2,2020-02-25,Julian Spencer,(079)398-7210x11466,0,Germany
+804,"Kia K5, purple",4.9,38399.4,2019-07-27,Darrell Hall,+1-326-680-1965x643,0,South Korea
+805,"Audi A3, grey",5.7,27985.65,2022-01-04,Timothy Lewis,2604724042,0,Germany
+806,"Audi RS3, green",7.5,23671.6725,2022-11-25,Amanda Edwards,(315)869-5876x8274,5,Germany
+807,"BMW M3, red",9,45901.625,2016-12-17,Matthew Hill,129.785.1041x3497,0,Germany
+808,"Audi A3, purple",5.7,26360.399999999998,2018-04-19,Kimberly Montes,001-842-384-5171x0920,0,Germany
+809,"Kia Rio, orange",3.1,13615.087500000001,2021-07-01,Morgan Bell,+1-065-371-2672x2556,15,South Korea
+810,"Tesla Model Y, orange",null,45817.2,2018-05-22,Theresa Price,(694)788-0191x4848,0,USA
+811,"Kia Rio, purple",3.1,24226.2,2020-03-18,Alexis Smith,+1-503-238-7555x3398,0,South Korea
+812,"Hyundai Elantra, yellow",5,46910.34,2018-11-22,Jermaine Berger,363.607.0061,10,South Korea
+813,"Lada Samara, blue",7.8,12954.900000000001,2022-09-11,Vanessa Davis,+1-623-409-6918x97896,0,Russia
+814,"Lada Samara, purple",7.8,11113.29,2020-02-16,Valerie Maldonado DVM,572-852-0908,3,Russia
+815,"Audi RS3, pink",7.5,18539.010000000002,2022-05-19,Christina Oconnell,001-727-852-7806,0,Germany
+816,"Lada Vesta, green",7.3,25097.8,2019-12-24,Daniel Mendez,+1-395-345-7322x34047,0,Russia
+817,"Hyundai Elantra, yellow",5,33697.392,2018-01-14,William Kirk,(551)456-8582,20,South Korea
+818,"Kia K5, green",4.9,16966,2017-11-23,Shawn Butler,(388)861-1025,0,South Korea
+819,"Hyundai Sonata, purple",6,38395.35,2022-01-02,Robert Stanley,5894617833,0,South Korea
+820,"Lada Vesta, yellow",7.3,12412.749824999999,2021-01-11,Angela Reese,001-902-077-7997,19,Russia
+821,"Kia K5, red",4.9,27834.625,2019-02-14,Mathew Campbell,(404)402-3049,0,South Korea
+822,"BMW M3, orange",9,38794,2017-05-16,Terri Morales,(899)046-4274x191,0,Germany
+823,"Tesla Model Y, red",null,56849.625,2022-02-27,Bradley Ross,001-330-221-7753x0827,0,USA
+824,"BMW F80, pink",8.3,19803.42,2015-08-24,Timothy Wong,001-765-576-0414,0,Germany
+825,"Tesla Model 3, purple",null,55533.6,2018-03-04,Brian Vega,001-536-405-8242x20697,0,USA
+826,"Audi RS3, red",7.5,26792.5,2017-10-27,Vanessa Reed,361-160-4242,0,Germany
+827,"Tesla Model Y, red",null,46083.375,2020-11-22,Linda Mcfarland MD,(545)830-2664x80343,0,USA
+828,"Kia K5, blue",4.9,16600.3,2016-10-17,Sarah Mcconnell,5115540959,0,South Korea
+829,"Tesla Model S, purple",null,46225.8,2020-07-22,Angela Flores,472-142-9731x13239,0,USA
+830,"Porsche 911, yellow",12,66527.73,2015-10-08,Jose Bradley,917.362.7663x8417,0,null
+831,"Tesla Model X, green",null,46237.2,2018-03-20,April Sloan,571.560.8931x0602,0,USA
+832,"Audi S3, blue",6.9,24450.3,2015-01-23,Edward Shaw,861-967-0863x368,0,Germany
+833,"BMW F30, blue",2,52819.2,2018-11-17,Paul Santiago,+1-016-436-2647x44870,0,Germany
+834,"Tesla Model Y, purple",null,41358.195,2015-01-28,Steven Robinson,(083)122-6846,15,USA
+835,"Audi A3, blue",5.7,27235.2,2018-08-06,Jennifer Baird,+1-786-104-2377x7604,0,Germany
+836,"Porsche 911, orange",12,61298,2017-01-23,Stacey Hall,+1-031-516-3809x79062,0,null
+837,"Audi S3, yellow",6.9,22832.1,2017-04-18,Sergio Snyder,610.614.2474x05389,10,Germany
+838,"Tesla Model 3, blue",null,44617.7,2016-12-03,Thomas Miller,743-556-0431x67281,0,USA
+839,"Hyundai Elantra, red",5,31758.1875,2015-02-22,Adam Stevens,723.517.6633,14,South Korea
+840,"Audi A3, blue",5.7,20924.100000000002,2015-08-31,Shannon Copeland,523.753.1270x385,0,Germany
+841,"Audi S3, pink",6.9,12554.4,2017-12-14,Ryan Perez,(706)706-9470,0,Germany
+842,"Lada Vesta, pink",7.3,7415.73,2021-05-07,Renee Wilson,893-959-8006x96804,0,Russia
+843,"Hyundai Avante, purple",5.5,33081.36,2019-11-05,Melissa Meyer,252-094-8594x8234,20,South Korea
+844,"Kia Rio, green",3.1,12484.152,2015-12-25,Stephanie Davis,001-183-267-8264,13,South Korea
+845,"Tesla Model Y, red",null,71519.32499999998,2018-12-29,Stephen Reed,001-240-793-9171x2374,5,USA
+846,"Tesla Model Y, pink",null,24260.569199999998,2021-04-19,Ian Brown,(947)953-2982x40236,18,USA
+847,"Porsche 911, yellow",12,67792.6725,2022-03-17,Laura Gonzales,+1-157-773-3597,0,null
+848,"Tesla Model X, orange",null,43542,2017-03-06,Kevin Baker,351-505-7672,0,USA
+849,"BMW F30, green",2,49142.4,2018-01-04,Cindy Lucero,001-758-730-8145x8147,0,Germany
+850,"Kia Rio, blue",3.1,33165.6,2019-08-30,Kimberly Mcfarland,8849624121,0,South Korea
+851,"Kia K5, green",4.9,24927.05,2016-04-24,Cheryl Jackson,(522)567-2398x71666,0,South Korea
+852,"Tesla Model Y, blue",null,50644.65,2022-09-12,Denise Henderson,001-043-516-7550x53224,0,USA
+853,"Audi S3, grey",6.9,21829.1,2016-10-29,Robert Brown,(378)119-0757,0,Germany
+854,"Lada Vesta, yellow",7.3,15727.859999999999,2018-03-28,Teresa Reynolds,052.442.7554x23729,0,Russia
+855,"Hyundai Avante, purple",5.5,33469.200000000004,2020-01-10,Misty Ellison,(731)522-3716x9643,0,South Korea
+856,"Audi A3, orange",5.7,16978.374,2020-07-12,Timothy Hamilton,568-938-8218x31464,6,Germany
+857,"Hyundai Avante, green",5.5,28926.9,2020-07-09,Lisa Mcdaniel,108-183-8387,0,South Korea
+858,"Audi S3, orange",6.9,28123.2,2018-09-14,Erin Williams,478.655.5666,0,Germany
+859,"Kia Rio, orange",3.1,25961.6,2016-11-11,Scott Mcguire,882.564.6822,0,South Korea
+860,"Tesla Model S, grey",null,46521.9,2015-12-07,Lisa Garza,739.410.7262x945,0,USA
+861,"Audi S3, pink",6.9,9018.7506,2020-01-05,Mrs. Ashley Mccarthy,076.490.1069,19,Germany
+862,"BMW F30, pink",2,22865.850000000002,2022-12-27,Mr. Edward Brown Jr.,477-801-4746,0,Germany
+863,"Lada Samara, green",7.8,19767,2017-09-20,Joseph Daniels,7106496716,0,Russia
+864,"Tesla Model 3, red",null,47998.125,2015-02-16,Cole Flowers,624-804-3621x593,0,USA
+865,"Lada Kalina, red",6.7,23055.5,2019-03-12,Melissa Moody,291-322-3622x3944,0,Russia
+866,"Tesla Model Y, pink",null,34505.73,2021-05-12,Jonathan Hernandez,(624)456-0137x92559,0,USA
+867,"Audi A3, orange",5.7,30639.6,2018-06-19,Michael Norman,+1-001-534-9139,0,Germany
+868,"BMW M3, orange",9,33679.8,2015-08-14,Reginald Clark,+1-098-107-4824x832,0,Germany
+869,"Tesla Model Y, green",null,54052.950000000004,2022-10-27,Jason Stewart,(497)107-7532,0,USA
+870,"BMW M3, grey",9,39574.15,2016-09-09,Michelle Fernandez,(248)325-5848x1801,0,Germany
+871,"Lada Kalina, purple",6.7,15593.3,2016-07-27,Becky Williams,+1-773-193-3265x5662,0,Russia
+872,"Tesla Model 3, orange",null,43499.4,2021-06-03,Annette Nelson,135.385.9377,0,USA
+873,"BMW F80, purple",8.3,53835.6,2018-08-02,Mike Melendez,(042)086-6796x4826,0,Germany
+874,"Lada Vesta, red",7.3,21925.3125,2022-11-07,Alfred Moore,342.995.2794,0,Russia
+875,"Hyundai Avante, orange",5.5,28774.8,2020-01-05,Roberto Moore,907-177-3767,0,South Korea
+876,"Audi A3, red",5.7,30871.125,2020-12-25,Brandon Richardson,(665)970-7198x9343,0,Germany
+877,"BMW M3, grey",9,41784.156,2018-03-20,Wayne Johnson,(396)911-0018x91861,7,Germany
+878,"Tesla Model S, green",null,47096.4,2019-05-15,Angela Taylor,(654)952-0067x53181,0,USA
+879,"Audi RS3, grey",7.5,25749.9,2015-11-22,Jessica Murphy,587-331-8202,0,Germany
+880,"Kia Rio, grey",3.1,21267.9,2020-03-13,Logan Jimenez,668-245-8790x5886,0,South Korea
+881,"Tesla Model 3, orange",null,46755,2015-06-02,Lawrence Hays,920.222.0588x221,0,USA
+882,"Kia Rio, orange",3.1,37308.700000000004,2019-02-09,Melissa Robinson,749.086.0969x715,0,South Korea
+883,"Lada Vesta, purple",7.3,12710.25,2021-02-05,Glenda Davis,001-351-173-3459x376,0,Russia
+884,"Lada Kalina, grey",6.7,10482.3,2016-05-16,Nicholas Ball,001-795-114-8315x25975,0,Russia
+885,"Kia Rio, yellow",3.1,24668.649999999998,2017-07-10,Allen Grant,+1-963-335-8457x0659,0,South Korea
+886,"Porsche 911, orange",12,48248.729999999996,2020-02-19,Mrs. Joyce Fisher DDS,(606)304-4298x231,17,null
+887,"Lada Samara, orange",7.8,12195.75,2021-12-19,Alexandria Ross,(610)603-1157x456,0,Russia
+888,"Audi A3, pink",5.7,22719.06,2019-11-04,Tammy Crawford,+1-711-632-4357,0,Germany
+889,"Hyundai Avante, yellow",5.5,37573.7775,2022-04-25,Roberta Jensen,9743158973,0,South Korea
+890,"Lada Kalina, grey",6.7,15719.6,2019-01-14,David Lewis,+1-253-450-1996x99160,0,Russia
+891,"Lada Kalina, red",6.7,16267.30875,2021-04-29,Brenda Evans,7444037365,11,Russia
+892,"Porsche 911, grey",12,68593.98,2018-07-29,Michael Tucker,139.591.1678x8457,15,null
+893,"Kia K5, red",4.9,19924.875,2020-08-12,Paul Crawford,+1-710-873-3078x305,0,South Korea
+894,"Tesla Model X, purple",null,65683.2,2018-12-31,Dustin Martin,(430)120-7683,0,USA
+895,"BMW F80, purple",8.3,43945.2,2018-02-22,Michael Wu,+1-587-114-0889x3149,0,Germany
+896,"Lada Vesta, pink",7.3,8631.954,2020-11-23,Carla Smith,001-818-501-7528x0438,15,Russia
+897,"Tesla Model S, purple",null,54218.850000000006,2022-05-30,Daniel Sanders,(925)028-0929x847,0,USA
+898,"Hyundai Sonata, purple",6,33483.6,2020-08-22,Summer Diaz,325.358.2773,0,South Korea
+899,"Tesla Model 3, red",null,49062.75,2016-07-17,Matthew Anderson,+1-993-672-9259,0,USA
+900,"Audi RS3, grey",7.5,22708,2017-10-30,Jason Davis,001-152-737-8038x4580,0,Germany
+901,"Audi RS3, blue",7.5,22100.4,2022-02-06,Amanda Rice,+1-715-936-8028x534,0,Germany
+902,"Lada Vesta, red",7.3,22525.125,2021-11-28,Jason Richards,+1-156-925-9372,0,Russia
+903,"Porsche 911, red",12,77940.1875,2022-10-18,Tonya Rivera,328-325-5524,0,null
+904,"Tesla Model 3, green",null,45225,2015-03-26,Martha Parker,(497)927-8237,0,USA
+905,"Tesla Model X, purple",null,43263.15,2021-09-15,David Hardy,(323)544-4277x436,0,USA
+906,"BMW F80, blue",8.3,36947.4,2016-05-22,Mark Watson,178.946.2026x8549,0,Germany
+907,"Kia K5, purple",4.9,25568.100000000002,2020-04-05,Elizabeth Nelson,001-105-436-3214,0,South Korea
+908,"Lada Samara, yellow",7.8,17845.9875,2016-10-28,Robert Lopez,+1-935-027-5245x93386,0,Russia
+909,"Tesla Model S, green",null,48448.4,2019-01-01,Laura Mcclain,001-421-755-7001x3489,0,USA
+910,"Lada Samara, red",7.8,15171.1875,2022-01-04,Anthony Brown,483.824.9640,0,Russia
+911,"BMW F30, purple",2,39121,2017-09-02,Brandy Martin,760.637.8783,0,Germany
+912,"Kia K5, orange",4.9,14083.2,2015-09-18,Jeremy Jennings,368-832-6133x334,0,South Korea
+913,"BMW F30, green",2,39205.950000000004,2022-05-17,Amanda Kelly,153-419-1305x696,0,Germany
+914,"Lada Samara, grey",7.8,21079.5,2019-05-02,Wayne Miller,0787813258,0,Russia
+915,"Porsche 911, green",12,54345.564,2015-03-13,Lori Booth,591-205-3448x97977,9,null
+916,"Audi S3, green",6.9,29528.226000000002,2019-05-06,Jose Love,+1-927-036-4837x328,19,Germany
+917,"Lada Vesta, green",7.3,15858.150000000001,2022-11-02,Dawn Kennedy,+1-480-330-6763,0,Russia
+918,"Audi RS3, orange",7.5,27890.1,2016-03-29,Cynthia Obrien,+1-019-779-5632x69570,0,Germany
+919,"BMW M3, green",9,43470,2017-09-13,Linda Romero,(321)142-7051,0,Germany
+920,"Lada Kalina, green",6.7,14270.1,2019-07-15,Brandy Sanders,001-765-258-7989x42194,0,Russia
+921,"Lada Kalina, orange",6.7,16071.300000000001,2015-05-01,Charles Martinez,7555933146,0,Russia
+922,"Lada Vesta, purple",7.3,10222,2016-12-15,Corey Moran Jr.,001-466-837-8618x684,0,Russia
+923,"BMW M3, grey",9,48295.2,2018-11-02,James Turner,2994237132,0,Germany
+924,"BMW F30, green",2,35506.8,2020-05-19,Catherine Burton,001-327-862-1167x755,0,Germany
+925,"Tesla Model 3, red",null,48549.375,2021-12-26,Colleen Daniels,(665)929-3526x419,0,USA
+926,"Tesla Model 3, grey",null,56847.6,2018-01-11,Kathleen Vega,209-614-1984,0,USA
+927,"Tesla Model S, blue",null,49566.320999999996,2022-10-16,Nicholas Gilbert,001-522-494-0862,3,USA
+928,"Tesla Model 3, yellow",null,71501.93999999999,2018-06-12,Mary Ramirez,(845)167-9181x4413,0,USA
+929,"Tesla Model X, grey",null,34492.64749999999,2016-11-03,Kathleen Kim,(898)584-4111,5,USA
+930,"Porsche 911, purple",12,53674.049999999996,2016-04-23,Brent Johnson,470-862-1523x4889,0,null
+931,"Audi A3, grey",5.7,18047.7,2020-03-02,Joshua Calderon,+1-780-333-1885x54780,0,Germany
+932,"BMW M3, purple",9,53635.4,2019-11-01,Wendy Fox,558.405.5322,0,Germany
+933,"Hyundai Elantra, blue",5,37418.4,2018-07-08,Heather Gutierrez,0651354031,0,South Korea
+934,"Audi A3, grey",5.7,26543.7,2015-05-17,George Howard,4064027070,0,Germany
+935,"Audi RS3, green",7.5,24870.3,2021-10-25,Timothy Morales,594.429.6892x8784,0,Germany
+936,"Hyundai Avante, grey",5.5,33457.200000000004,2022-08-08,Jennifer Hull,365.358.6863,0,South Korea
+937,"Tesla Model S, yellow",null,50505.24,2018-02-25,Andrea Campbell,157-175-3822x532,0,USA
+938,"Kia K5, pink",4.9,21264.479999999996,2018-07-24,Alex Nelson,001-547-841-7871x396,0,South Korea
+939,"BMW F80, yellow",8.3,34125.3783,2015-03-08,Mrs. Chelsea Bradley,524-279-2860,18,Germany
+940,"BMW M3, red",9,55785.1875,2022-10-15,Sophia Swanson,712.380.2704,0,Germany
+941,"Tesla Model X, grey",null,59347.6,2019-10-13,Kaitlyn Warren,001-089-852-6135x8437,0,USA
+942,"Audi RS3, yellow",7.5,27192.554999999997,2015-01-19,Michael Cabrera,(575)359-8037,0,Germany
+943,"Audi RS3, blue",7.5,25984.8,2015-12-30,Thomas Parker,802-904-6081,0,Germany
+944,"BMW M3, pink",9,30481.62,2019-01-27,Richard Lynn,3288883270,0,Germany
+945,"Lada Samara, pink",7.8,7528.0127999999995,2016-10-28,Kayla Stewart,(863)024-9563,12,Russia
+946,"Kia Rio, grey",3.1,15220,2017-09-22,Rachel Jensen,484.139.0255x5940,0,South Korea
+947,"Hyundai Elantra, red",5,38641.25,2017-03-05,Michael Wise,311-672-1832x36644,0,South Korea
+948,"Lada Vesta, blue",7.3,9891,2020-10-20,Kyle Weiss,(012)167-2299x8455,0,Russia
+949,"Tesla Model 3, grey",null,43410.15,2021-10-03,Christine Duncan,(681)984-8474,0,USA
+950,"Audi S3, blue",6.9,24434,2017-01-19,Adrian Cabrera,+1-346-140-1263x511,0,Germany
+951,"Audi RS3, green",7.5,24064,2017-11-25,Nicholas Rivera,(812)956-6939x10235,6,Germany
+952,"Audi A3, pink",5.7,20411.04,2019-01-29,Jesse Nguyen,001-820-927-9942x4949,0,Germany
+953,"Tesla Model X, yellow",null,54751.72999999999,2016-05-14,Harry Rogers,248.558.7762x84673,0,USA
+954,"Hyundai Avante, orange",5.5,30744.9,2015-06-27,Regina Murphy,(120)930-5198,0,South Korea
+955,"Kia K5, blue",4.9,16941.600000000002,2020-09-17,Robert Simon,(855)243-4758x37982,0,South Korea
+956,"Tesla Model 3, orange",null,47151.9,2020-07-31,Olivia Gomez,+1-390-584-8253x206,0,USA
+957,"Hyundai Avante, red",5.5,34170.75,2015-04-09,Ashley Morgan,001-956-999-5729x5999,0,South Korea
+958,"Tesla Model X, red",null,44038.7625,2017-09-09,Jamie Smith,0377351461,17,USA
+959,"Audi A3, purple",5.7,30784,2019-05-13,William Anderson,(561)444-2724x4544,0,Germany
+960,"BMW M3, grey",9,38659.950000000004,2021-09-24,David Harding,(549)454-4017x153,0,Germany
+961,"Kia Rio, grey",3.1,18860.100000000002,2022-08-13,John Riggs,(831)188-7274x27218,0,South Korea
+962,"Audi A3, purple",5.7,21650.4,2015-05-31,Nathaniel Taylor,(076)030-9281,0,Germany
+963,"Tesla Model S, pink",null,27270.54,2015-10-18,Jeremy Jackson,+1-929-605-2586x4438,0,USA
+964,"Lada Samara, red",7.8,19059.75,2015-12-23,Keith Zhang,894-854-2603,0,Russia
+965,"BMW F80, red",8.3,49503.5625,2021-09-18,Ryan Murphy,660.463.4566,0,Germany
+966,"Tesla Model X, orange",null,37855.8,2015-02-04,Craig Solomon,092.027.3998x826,0,USA
+967,"Audi A3, pink",5.7,19457.28,2018-04-19,Valerie Schneider,371-657-4706,0,Germany
+968,"Audi S3, grey",6.9,24870.149999999998,2017-11-24,Miss Rebecca Andrews,218.863.8739,15,Germany
+969,"BMW M3, green",9,43043,2017-06-07,Shaun Black,504-104-7464,0,Germany
+970,"Lada Samara, green",7.8,13377.14,2017-03-25,Linda Young,708.123.4276x46528,6,Russia
+971,"Audi A3, yellow",5.7,24366.142499999998,2022-03-15,Jason Martinez,026-894-8877,0,Germany
+972,"Lada Kalina, purple",6.7,15573.060000000001,2017-09-22,Nathan Schmidt,178.993.3374x846,19,Russia
+973,"Audi S3, grey",6.9,19911.05,2016-11-17,Lisa Bailey,+1-197-766-1453x604,0,Germany
+974,"Tesla Model S, red",null,62018.125,2019-05-17,Michele Taylor,015.173.0830x2567,0,USA
+975,"Tesla Model 3, yellow",null,79743.29999999999,2019-12-20,Stephanie Johnson,(718)675-7235,0,USA
+976,"Lada Kalina, purple",6.7,11526.300000000001,2015-03-06,Kim Reed,001-144-133-8282x45561,0,Russia
+977,"Tesla Model X, orange",null,41330.1,2022-09-24,Patricia Flores,1680682456,0,USA
+978,"Lada Kalina, purple",6.7,15499.800000000001,2020-08-22,Timothy Singh,(744)559-9919x3253,0,Russia
+979,"Tesla Model 3, grey",null,56365.2,2018-01-17,Timothy Sanders,211.846.3826x03543,0,USA
+980,"Lada Kalina, blue",6.7,17046,2015-07-13,Patrick Chase,947.941.0010,0,Russia
+981,"Lada Samara, orange",7.8,15427,2017-05-29,Philip Green,8430025527,0,Russia
+982,"BMW F80, orange",8.3,41575,2017-05-15,Stephen Evans,(764)785-9001x8998,0,Germany
+983,"BMW F30, yellow",2,37512.871199999994,2020-06-11,Bryan King,+1-813-546-9415,2,Germany
+984,"Tesla Model S, green",null,49159.2,2018-01-11,Brandon Bowman,001-114-029-1097,0,USA
+985,"Tesla Model X, blue",null,37447.200000000004,2015-02-08,Kathryn Scott,(549)927-8138x46201,0,USA
+986,"Tesla Model Y, red",null,60732,2021-07-03,Calvin Turner,701.019.4822x8406,0,USA
+987,"BMW F30, pink",2,21507.66,2015-09-10,Leslie Elliott,441-390-4094,0,Germany
+988,"Audi A3, purple",5.7,19783.404000000002,2020-09-25,Samantha Bird,899-644-4374x7257,8,Germany
+989,"Lada Vesta, grey",7.3,23886,2018-09-03,Jason Fowler,+1-341-983-4826x767,0,Russia
+990,"Tesla Model S, grey",null,38824.6,2016-11-07,Paula Fisher,001-609-580-8217x56708,0,USA
+991,"Tesla Model 3, grey",null,49158.9,2021-01-11,Sydney Williams,001-995-344-5047x211,0,USA
+992,"Audi RS3, green",7.5,28068.699999999997,2016-01-13,Anita Gonzalez,476-726-0356x12377,0,Germany
+993,"Tesla Model X, green",null,35532.147,2016-06-14,Zachary Montes,522-439-9284,14,USA
+994,"Lada Kalina, grey",6.7,18954.399999999998,2016-08-04,Jorge Carter,001-630-386-5785x182,0,Russia
+995,"Hyundai Avante, yellow",5.5,41312.1975,2021-09-03,Erica Miller,+1-833-434-5196x888,0,South Korea
+996,"BMW F30, purple",2,50416.296,2018-07-30,Melissa Bowman,+1-712-457-5802x75613,2,Germany
+997,"BMW F30, yellow",2,47590.45,2017-02-23,Melissa Sanders,5230792435,0,Germany
+998,"Lada Samara, green",7.8,13722.743999999999,2018-06-24,Melissa Bond,745-013-8470x145,2,Russia
+999,"Tesla Model Y, yellow",null,46267.604999999996,2015-10-31,Nicole Smith,791.276.4541x02684,0,USA
+1000,"Hyundai Avante, grey",5.5,29905.128,2015-03-04,Charles Graves,001-088-803-3579x277,12,South Korea
